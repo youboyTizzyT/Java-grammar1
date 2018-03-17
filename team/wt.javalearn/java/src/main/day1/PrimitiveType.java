@@ -95,6 +95,7 @@ public class PrimitiveType {
          *      包装类: java,lang,Character
          *      char 数据类型可以储存任何字符；
          *      注意:在java中,用单引号是char类型,双引号是String类型
+         *      注意:两个char型运算时，自动转换为int型；当char与别的类型运算时，也会先自动转换为int型的，再做其它类型的自动转换
          */
          char letter='A';
          char letter1='3';

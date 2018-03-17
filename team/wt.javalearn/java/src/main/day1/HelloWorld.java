@@ -1,6 +1,7 @@
 package day1;
 
 /**
+ * 第一个程序
  * @author weicong
  * @date 2018/3/16 0016
  */
