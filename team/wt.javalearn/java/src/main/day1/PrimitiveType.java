@@ -10,7 +10,7 @@ public class PrimitiveType {
     public static void main(String[] args) {
         /*
          * 首先了解java有什么数据类型
-         * byte：
+         * byte：二进制位数：8
          *     byte 数据类型是8位、有符号的，以二进制补码表示的整数；
          *     最小值是 -128（-2^7）；
          *     最大值是 127（2^7-1）；
@@ -24,7 +24,7 @@ public class PrimitiveType {
         System.out.println(Byte.MAX_VALUE);// 127
         System.out.println(Byte.MIN_VALUE);// -128
         /*
-         * short：
+         * short：二进制位数：16
          *      short 数据类型是 16 位、有符号的以二进制补码表示的整数
          *      最小值是 -32768（-2^15）；
          *      最大值是 32767（2^15 - 1）；
@@ -39,7 +39,7 @@ public class PrimitiveType {
         System.out.println(Short.MAX_VALUE);// 32767
         System.out.println(Short.MIN_VALUE);// -32768
         /*
-         * int：
+         * int： 二进制位数：32
          *      int 数据类型是32位、有符号的以二进制补码表示的整数；
          *      最小值是 -2,147,483,648（-2^31）；
          *      最大值是 2,147,483,647（2^31 - 1）；
@@ -52,7 +52,7 @@ public class PrimitiveType {
         System.out.println(Integer.MAX_VALUE);// 2147483647
         System.out.println(Integer.MIN_VALUE);// -2147483648
         /*
-         * lang:
+         * float  二进制位数：32
          *      float 数据类型是单精度、32位、符合IEEE 754标准的浮点数；
          *      float 在储存大型浮点数组的时候可节省内存空间；
          *      默认值是 0.0f；
@@ -66,7 +66,7 @@ public class PrimitiveType {
         System.out.println(Float.MAX_VALUE);// 3.4028235E38
         System.out.println(Float.MIN_VALUE);// 1.4E-45
         /*
-         * double：
+         * double：二进制位数：64
          *      double 数据类型是双精度、64 位、符合IEEE 754标准的浮点数；
          *      浮点数的默认类型为double类型；
          *      包装类: java,lang,Double
@@ -75,7 +75,7 @@ public class PrimitiveType {
          double d1=123.4567891011121314151617;
         System.out.println(d1);// 123.45678910111214
         /*
-         * boolean：
+         * boolean：二进制位数：64
          *      boolean数据类型表示一位的信息；
          *      只有两个取值：true 和 false；
          *      包装类: java,lang,Boolean
@@ -88,7 +88,7 @@ public class PrimitiveType {
         System.out.println(Boolean.TRUE);
         System.out.println(Boolean.TYPE);
         /*
-         * char：
+         * char： 二进制位数：16
          *      char类型是一个单一的 16 位 Unicode 字符；
          *      最小值是 \u0000（即为0）；
          *      最大值是 \uffff（即为65,535）；
@@ -102,6 +102,19 @@ public class PrimitiveType {
         System.out.println(letter1);// 3
         System.out.println(Character.MIN_VALUE);// 输出不出来    \u0000
         System.out.println(Character.MAX_VALUE);// 因为不是utf-8 \uFFFF
+        /*
+         * long：
+         *      long 数据类型是 64 位、有符号的以二进制补码表示的整数；
+         *      最小值是 -9,223,372,036,854,775,808（-2^63）；
+         *      最大值是 9,223,372,036,854,775,807（2^63 -1）；
+         *      这种类型主要使用在需要比较大整数的系统上；
+         *      默认值是 0L；
+         *      注意: 阿里变成规范中不允许使用小写l
+         */
+         long l=10000L;
+        System.out.println(l);
+        System.out.println(Long.MAX_VALUE);// 9223372036854775807
+        System.out.println(Long.MIN_VALUE);// -9223372036854775808
 
     }
 }
