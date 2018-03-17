@@ -4,4 +4,4 @@ java1.8
 每日更新文件前缀在 team.wt.javalearn.java.src.main.day*
  ## 更新简介 
 * 2018.3.16 更新java所有基础语法
-* 2018.3.17 更新java基本类型
+* 2018.3.17 更新java基本类型 数据类型之间的转换
