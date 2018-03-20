@@ -2,27 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4e076f5-01a5-49a7-89c3-d141e6187935" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/modifier/访问控制修饰符.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/operator/位运算符.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/operator/关系运算符.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/operator/算术运算符.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/operator/赋值运算符.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/operator/逻辑运算符.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day2/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/modifier/AbsCaravan.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/modifier/ClassName.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/modifier/FinalTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/modifier/InstanceCounter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/modifier/SinletonVolatileTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/modifier/SynchronizedTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/modifier/TransientTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/modifier/TransientTest1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/modifier/VolatileTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/operator/ArithmeticTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/operator/AssignmentTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/operator/LogicTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/operator/PositionTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/operator/RelationshipTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/operator/java运算符优先级.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/judge/IfElseTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/judge/Test1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/loop/ForTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/loop/NineNineSurface.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/loop/WhileTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/operator/InstanceofTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,34 +24,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="TransientTest1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/modifier/TransientTest1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="36" column="37" lean-forward="true" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#537#538#0" expanded="true" />
-                <element signature="e#586#587#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="算术运算符.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/operator/算术运算符.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="关系运算符.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/operator/关系运算符.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ArithmeticTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/operator/ArithmeticTest.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -76,31 +34,81 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AssignmentTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AssignmentTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/operator/AssignmentTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="28" column="17" lean-forward="true" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+            <state relative-caret-position="341">
+              <caret line="26" column="16" lean-forward="true" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RelationshipTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/operator/RelationshipTest.java">
+      <file leaf-file-name="InstanceofTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/operator/InstanceofTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+            <state relative-caret-position="400">
+              <caret line="22" column="28" lean-forward="false" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PositionTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/operator/PositionTest.java">
+      <file leaf-file-name="WhileTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/loop/WhileTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="316">
-              <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+              <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ForTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/loop/ForTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="925">
+              <caret line="37" column="11" lean-forward="true" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NineNineSurface.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/loop/NineNineSurface.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IfElseTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/judge/IfElseTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="291">
+              <caret line="44" column="45" lean-forward="true" selection-start-line="44" selection-start-column="45" selection-end-line="44" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/judge/Test1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/judge/Test2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="591">
+              <caret line="24" column="43" lean-forward="true" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -111,23 +119,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="166">
               <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="逻辑运算符.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/operator/逻辑运算符.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SinletonVolatileTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/modifier/SinletonVolatileTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -187,6 +178,13 @@
         <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/operator/PositionTest.java" />
         <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/operator/LogicTest.java" />
         <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/operator/AssignmentTest.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/operator/InstanceofTest.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/loop/WhileTest.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/loop/ForTest.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/loop/NineNineSurface.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/judge/IfElseTest.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/judge/Test1.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/judge/Test2.java" />
       </list>
     </option>
   </component>
@@ -279,6 +277,17 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="day3" type="462c0819:PsiDirectoryNode" />
+              <item name="judge" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-grammar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-grammar" type="462c0819:PsiDirectoryNode" />
+              <item name="team" type="462c0819:PsiDirectoryNode" />
+              <item name="wt.javalearn" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="day3" type="462c0819:PsiDirectoryNode" />
               <item name="operator" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -332,15 +341,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AssignmentTest">
-    <configuration name="ArithmeticTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Test2">
+    <configuration name="ForTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="day3.operator.*" />
+          <option name="PATTERN" value="day3.loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="day3.operator.ArithmeticTest" />
+      <option name="MAIN_CLASS_NAME" value="day3.loop.ForTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -352,14 +361,14 @@
       <module name="Java-grammar" />
       <envs />
     </configuration>
-    <configuration name="AssignmentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="IfElseTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="day3.operator.*" />
+          <option name="PATTERN" value="day3.judge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="day3.operator.AssignmentTest" />
+      <option name="MAIN_CLASS_NAME" value="day3.judge.IfElseTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -371,14 +380,14 @@
       <module name="Java-grammar" />
       <envs />
     </configuration>
-    <configuration name="LogicTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="NineNineSurface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="day3.operator.*" />
+          <option name="PATTERN" value="day3.loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="day3.operator.LogicTest" />
+      <option name="MAIN_CLASS_NAME" value="day3.loop.NineNineSurface" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -390,14 +399,14 @@
       <module name="Java-grammar" />
       <envs />
     </configuration>
-    <configuration name="RelationshipTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="day3.operator.*" />
+          <option name="PATTERN" value="day3.judge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="day3.operator.RelationshipTest" />
+      <option name="MAIN_CLASS_NAME" value="day3.judge.Test1" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -409,14 +418,14 @@
       <module name="Java-grammar" />
       <envs />
     </configuration>
-    <configuration name="TransientTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="day3.*" />
+          <option name="PATTERN" value="day3.judge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="day3.TransientTest1" />
+      <option name="MAIN_CLASS_NAME" value="day3.judge.Test2" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -510,19 +519,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.TransientTest1" />
-      <item index="1" class="java.lang.String" itemvalue="Application.ArithmeticTest" />
-      <item index="2" class="java.lang.String" itemvalue="Application.RelationshipTest" />
-      <item index="3" class="java.lang.String" itemvalue="Application.LogicTest" />
-      <item index="4" class="java.lang.String" itemvalue="Application.AssignmentTest" />
+      <item index="0" class="java.lang.String" itemvalue="Application.ForTest" />
+      <item index="1" class="java.lang.String" itemvalue="Application.NineNineSurface" />
+      <item index="2" class="java.lang.String" itemvalue="Application.IfElseTest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Test1" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Test2" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.AssignmentTest" />
-        <item index="1" class="java.lang.String" itemvalue="Application.LogicTest" />
-        <item index="2" class="java.lang.String" itemvalue="Application.RelationshipTest" />
-        <item index="3" class="java.lang.String" itemvalue="Application.ArithmeticTest" />
-        <item index="4" class="java.lang.String" itemvalue="Application.TransientTest1" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Test2" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Test1" />
+        <item index="2" class="java.lang.String" itemvalue="Application.IfElseTest" />
+        <item index="3" class="java.lang.String" itemvalue="Application.NineNineSurface" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ForTest" />
       </list>
     </recent_temporary>
   </component>
@@ -536,7 +545,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1521191929276</updated>
-      <workItem from="1521191931609" duration="17884000" />
+      <workItem from="1521191931609" duration="20127000" />
     </task>
     <task id="LOCAL-00001" summary="2018.3.16 5.55&#10;java基础语法1">
       <created>1521194141275</created>
@@ -549,11 +558,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17884000" />
+    <option name="totallyTimeSpent" value="20127000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="216" y="20" width="1856" height="1009" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -568,7 +576,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26113585" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26113585" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -820,9 +828,9 @@
         <state relative-caret-position="337">
           <caret line="36" column="37" lean-forward="true" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#537#538#0" expanded="true" />
-            <element signature="e#586#587#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#537#538#0" expanded="false" />
+            <element signature="e#586#587#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -876,8 +884,64 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/operator/AssignmentTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="28" column="17" lean-forward="true" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+        <state relative-caret-position="341">
+          <caret line="26" column="16" lean-forward="true" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/operator/InstanceofTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="22" column="28" lean-forward="false" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/loop/WhileTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/loop/ForTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="925">
+          <caret line="37" column="11" lean-forward="true" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/loop/NineNineSurface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/judge/IfElseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="44" column="45" lean-forward="true" selection-start-line="44" selection-start-column="45" selection-end-line="44" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/judge/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/judge/Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="591">
+          <caret line="24" column="43" lean-forward="true" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
           <folding />
         </state>
       </provider>
