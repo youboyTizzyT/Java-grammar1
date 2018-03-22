@@ -48,7 +48,7 @@ public class MapTest {
          * 如果不一样则fail-fast策略
          *
          */
-        Map m1 = new HashMap();
+        HashMap m1 = new HashMap();
         m1.put("Zara", "8");
         m1.put("Mahnaz", "31");
         m1.put("Ayan", "12");
