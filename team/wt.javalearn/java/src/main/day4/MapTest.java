@@ -43,7 +43,10 @@ public class MapTest {
          * HashMap对象被修改次数，防止出现多个线程修改出现的线程不一致性，每次修改HashMap的值时，都会自增。当使用Iterator
          * 操作HashMap时，会用此值与Iterator内部的值做一次比较，从而判断HashMap有没有被其他线程修改。故建议每次遍历HashMap
          * 时都使用Iterator。
-         * 疑问,为什么HashMap不是安全的?
+         * 1.7中modCount是使用volatile修饰的,但是jdk1.8并没有使用volatile
+         * 1.7保证线程之间修改的可见性 判断modCount跟expectedModCount是否相等，如果不相等就表示已经有其他线程修改了Map：
+         * 如果不一样则fail-fast策略
+         *
          */
         Map m1 = new HashMap();
         m1.put("Zara", "8");
