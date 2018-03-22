@@ -123,9 +123,73 @@ public class MapTest {
          * Segment[i] 的默认大小为2,负载因子为0.75,得出初始阔值,为1.5,所以,在同一个Segment中插入一个元素,不会扩容,第二个会扩容一次
          * segmentShift 的值为32-4=28,segmentMask =16-1=15  移位数和掩码
          * 只初始化了segment[0],其他位置是null
+         *
+         * 在concurrentHashMap中的put 1.7
+         * 1,计算key的hash值.
+         * 2.根据hash值找到segment的位置, hash 是 32 位，无符号右移 segmentShift(28) 位，剩下低 4 位，
+         *   然后和 segmentMask(15) 做一次与操作，也就是说 j 是 hash 值的最后 4 位，也就是槽的数组下标
+         * 3.如果是segment[j]没有初始化ensureSegment(j) 对 segment[j] 进行初始化
+         * 4. 插入新值到 槽 s 中
          */
-
-
+        concurrentHashMap.put("111","111");
+        /*
+         * segment放入entry的时候:
+         * 1,在往segment写之前,需要先获取该segment的独占锁.
+         * 2,然后往里面插入,finally释放锁
+         *
+         * 初始化槽: ensureSegment
+         * ConcurrentHashMap 初始化的时候会初始化第一个槽 segment[0]，对于其他槽来说，在插入第一个值的时候进行初始化
+         * 但是如果两个线程同时初始化会为了保证并发,只会有一个成功. 使用 while 循环，内部用 CAS，当前线程成功设值或其他线程成功设值后，退出
+         * ensureSegment(int k) 比较简单，对于并发操作使用 CAS 进行控制
+         *
+         * 在往某个 segment 中 put 的时候，首先会调用 node = tryLock() ? null : scanAndLockForPut(key, hash, value)
+         * 就是说先进行一次 tryLock() 快速获取该 segment 的独占锁，如果失败，那么进入到 scanAndLockForPut 这个方法来获取锁。
+         * 具体分析这个方法中是怎么控制加锁的
+         *
+         * 获取写入锁: scanAndLockForPut
+         * 直接while循环获取锁.
+         * 重试次数如果超过 MAX_SCAN_RETRIES（单核1多核64），那么不抢了，进入到阻塞队列等待锁 直到获取锁后返回
+         * 这个方法就是做了一件事，那就是获取该 segment 的独占锁，如果需要的话顺便实例化了一下 node。
+         *
+         * 扩容:rehash  扩容后，容量为原来的 2 倍。
+         * 能触发扩容的地方,put,该方法不需要考虑并发，因为到这里的时候，是持有该 segment 的独占锁的 和hashmap相似,
+         *
+         * 在concurrentHashMap中put如何保证线程安全的
+         * 初始化槽,
+         */
+        concurrentHashMap.get("111");
+        /*
+         * 对于concurrentHashMap来说,get方法的确简单,
+         * 计算 hash 值，找到 segment 数组中的具体位置，或我们前面用的“槽”槽中也是一个数组，根据 hash 找到数组中具体的
+         * 位置到这里是链表了，顺着链表进行查找即可 get并没有实现读锁的业务,随时读,
+         *
+         * 最后说一下并发问题.
+         * 既然ConcurrentHashMap保证了并发性,然而我们看到的只有put有并发性,但是get没有保证并发,
+         * put操作保证线程安全性
+         * 1.初始化槽，这个我们之前就说过了，使用了 CAS 来初始化 Segment 中的数组
+         * 2.添加节点到链表的操作是插入到表头的，所以，如果这个时候 get 操作在链表遍历的过程已经到了中间，是不会影响的。
+         * 当然，另一个并发问题就是 get 操作在 put 之后，需要保证刚刚插入表头的节点被读取，这个依赖于 setEntryAt 方法中
+         * 使用的 UNSAFE.putOrderedObject。
+         * 3.扩容。扩容是新创建了数组，然后进行迁移数据，最后面将 newTable 设置给属性 table。所以，如果 get 操作此时也在
+         * 进行，那么也没关系，如果 get 先行，那么就是在旧的 table 上做查询操作；而 put 先行，那么 put 操作的可见性保证就
+         * 是 table 使用了 volatile 关键字
+         *
+         * remove操作
+         * remove有兴趣的可以自己看原码自行分析
+         * get 操作需要遍历链表，但是 remove 操作会”破坏”链表。
+         * 如果 remove 破坏的节点 get 操作已经过去了，那么这里不存在任何问题。
+         * 如果 remove 先破坏了一个节点，分两种情况考虑。 1、如果此节点是头结点，那么需要将头结点的 next 设置为数组该位置
+         * 的元素，table 虽然使用了 volatile 修饰，但是 volatile 并不能提供数组内部操作的可见性保证，所以源码中使用了
+         * UNSAFE 来操作数组，请看方法 setEntryAt。2、如果要删除的节点不是头结点，它会将要删除节点的后继节点接到前驱节点
+         * 中，这里的并发保证就是 next 属性是 volatile 的。
+         *
+         * jdk1.8
+         * 1、先根据key的hash值计算书其在table的位置 i。
+         * 2、检查table[i]是否为空，如果为空，则返回null，否则进行3
+         * 3、在table[i]存储的链表(或树)中开始遍历比对寻找，如果找到节点符合key的，则判断value是否为null来决定是否是更新
+         *    oldValue还是删除该节点。
+         */
+        concurrentHashMap.remove("111");
 
 
     }
