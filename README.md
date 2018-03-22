@@ -3,7 +3,7 @@
 * 经过在公司一段时间,梳理了github上很多没用的例子,决定从今天开始,每天github打卡,复习一次java也给刚入门的问我问题的人们朋友们一点自己亲手打的例子
 每日更新文件前缀在 team.wt.javalearn.java.src.main.day* 不适用于新手观看,适用于已经会java的童鞋们复习阅读,加强记忆,形成记忆网络
  ## 更新简介 
-* 2018.3.22 分享java9新特性https://zhuanlan.zhihu.com/p/24800180
+* 2018.3.22 分享java9新特性https://zhuanlan.zhihu.com/p/24800180  java10新特性https://zhuanlan.zhihu.com/p/34367248
 * 2018.3.22 更新java HashMap详解,顺便一起写了ConcurrentHashMap 1.7和1.8 之间的一些细节.
 * 2018.3.20 更新java String StringBuffer List Map Set 
 * 2018.3.20 更新java修饰符(抽象,final,静态,锁关键字,volatile) 运算符 循环语句 分支结构 
