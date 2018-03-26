@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4e076f5-01a5-49a7-89c3-d141e6187935" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day6/GenericMethodTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day6/GenericMethodTest1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day6/GenericTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day6/GenericTest1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day6/小记" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day6/stringMethod/RemoveStringFirst.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day6/stringMethod/SearchlastString.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day6/stringMethod/StringCompareEmp.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -57,72 +54,45 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PolymorphicTest1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day5/polymorphic/PolymorphicTest1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="33" column="48" lean-forward="false" selection-start-line="33" selection-start-column="48" selection-end-line="33" selection-end-column="48" />
-              <folding>
-                <element signature="e#1326#1327#0" expanded="true" />
-                <element signature="e#1384#1385#0" expanded="true" />
-                <element signature="e#1414#1415#0" expanded="true" />
-                <element signature="e#1441#1442#0" expanded="true" />
-                <element signature="e#1474#1475#0" expanded="true" />
-                <element signature="e#1504#1505#0" expanded="true" />
-                <element signature="e#1552#1553#0" expanded="true" />
-                <element signature="e#1588#1589#0" expanded="true" />
-                <element signature="e#1617#1618#0" expanded="true" />
-                <element signature="e#1646#1647#0" expanded="true" />
-                <element signature="e#2071#2072#0" expanded="true" />
-                <element signature="e#2100#2101#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day5/Test1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="9" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-              <folding>
-                <element signature="e#951#952#0" expanded="true" />
-                <element signature="e#995#996#0" expanded="true" />
-                <element signature="e#1026#1027#0" expanded="true" />
-                <element signature="e#1075#1076#0" expanded="true" />
-                <element signature="e#1141#1142#0" expanded="true" />
-                <element signature="e#1182#1183#0" expanded="true" />
-                <element signature="e#1210#1211#0" expanded="true" />
-                <element signature="e#1256#1257#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day5/Test2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="27" lean-forward="false" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-              <folding>
-                <element signature="e#327#328#0" expanded="true" />
-                <element signature="e#376#377#0" expanded="true" />
-                <element signature="e#442#443#0" expanded="true" />
-                <element signature="e#491#492#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="250">
-                <caret line="10" column="48" lean-forward="false" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+              <first_editor relative-caret-position="175">
+                <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StringCompareEmp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day6/stringMethod/StringCompareEmp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RemoveStringFirst.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day6/stringMethod/RemoveStringFirst.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchlastString.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day6/stringMethod/SearchlastString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -227,9 +197,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day2/StaticTest.java" />
-        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day2/Xix.java" />
-        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day2/Test.java" />
         <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/ClassName.java" />
         <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/FinalTest.java" />
         <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/AbsCaravan.java" />
@@ -278,6 +245,9 @@
         <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day6/GenericTest1.java" />
         <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day6/小记" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day6/stringMethod/SearchlastString.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day6/stringMethod/StringCompareEmp.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day6/stringMethod/RemoveStringFirst.java" />
       </list>
     </option>
   </component>
@@ -370,6 +340,17 @@
             </path>
             <path>
               <item name="Java-grammar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-grammar" type="462c0819:PsiDirectoryNode" />
+              <item name="team" type="462c0819:PsiDirectoryNode" />
+              <item name="wt.javalearn" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="day6" type="462c0819:PsiDirectoryNode" />
+              <item name="stringMethod" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-grammar" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -414,7 +395,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GenericTest1">
+  <component name="RunManager" selected="Application.StringCompareEmp">
     <configuration name="GenericMethodTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -480,6 +461,25 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="day6.GenericTest1" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Java-grammar" />
+      <envs />
+    </configuration>
+    <configuration name="StringCompareEmp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="day6.stringMethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="day6.stringMethod.StringCompareEmp" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -572,30 +572,20 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="test" type="Applet" factoryName="Applet" temporary="true">
-      <option name="HTML_USED" value="false" />
-      <option name="MAIN_CLASS_NAME" value="test" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module name="Java-grammar">
-        <option name="moduleName" value="Java-grammar" />
-      </module>
-    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Applet.test" />
-      <item index="1" class="java.lang.String" itemvalue="Application.GenericMethodTest" />
-      <item index="2" class="java.lang.String" itemvalue="Application.GenericMethodTest1" />
-      <item index="3" class="java.lang.String" itemvalue="Application.GenericTest" />
-      <item index="4" class="java.lang.String" itemvalue="Application.GenericTest1" />
+      <item index="0" class="java.lang.String" itemvalue="Application.GenericMethodTest" />
+      <item index="1" class="java.lang.String" itemvalue="Application.GenericMethodTest1" />
+      <item index="2" class="java.lang.String" itemvalue="Application.GenericTest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.GenericTest1" />
+      <item index="4" class="java.lang.String" itemvalue="Application.StringCompareEmp" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.GenericTest1" />
-        <item index="1" class="java.lang.String" itemvalue="Application.GenericTest" />
-        <item index="2" class="java.lang.String" itemvalue="Application.GenericMethodTest1" />
-        <item index="3" class="java.lang.String" itemvalue="Application.GenericMethodTest" />
-        <item index="4" class="java.lang.String" itemvalue="Applet.test" />
+        <item index="0" class="java.lang.String" itemvalue="Application.StringCompareEmp" />
+        <item index="1" class="java.lang.String" itemvalue="Application.GenericTest1" />
+        <item index="2" class="java.lang.String" itemvalue="Application.GenericTest" />
+        <item index="3" class="java.lang.String" itemvalue="Application.GenericMethodTest1" />
+        <item index="4" class="java.lang.String" itemvalue="Application.GenericMethodTest" />
       </list>
     </recent_temporary>
   </component>
@@ -611,7 +601,7 @@
       <updated>1521191929276</updated>
       <workItem from="1521191931609" duration="50126000" />
       <workItem from="1521711235175" duration="17956000" />
-      <workItem from="1522035449728" duration="12443000" />
+      <workItem from="1522035449728" duration="13116000" />
     </task>
     <task id="LOCAL-00001" summary="2018.3.16 5.55&#10;java基础语法1">
       <created>1521194141275</created>
@@ -631,7 +621,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80525000" />
+    <option name="totallyTimeSpent" value="81198000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1096" extended-state="6" />
@@ -688,27 +678,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/loop/WhileTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/loop/ForTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="925">
-          <caret line="37" column="11" lean-forward="true" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/loop/NineNineSurface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -1276,11 +1245,35 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="250">
-            <caret line="10" column="48" lean-forward="false" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+          <first_editor relative-caret-position="175">
+            <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day6/stringMethod/SearchlastString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day6/stringMethod/StringCompareEmp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day6/stringMethod/RemoveStringFirst.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
