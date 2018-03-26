@@ -8,7 +8,17 @@
       <sourceFolder url="file://$MODULE_DIR$/team/wt.javalearn/java/src/main" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/team/wt.javalearn/java/src/test" isTestSource="true" />
     </content>
-    <orderEntry type="jdk" jdkName="1.8 (1)" jdkType="JavaSDK" />
+    <orderEntry type="jdk" jdkName="1.7" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://D:/java7" />
+        </SOURCES>
+        <jarDirectory url="file://D:/java7" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
   </component>
 </module>

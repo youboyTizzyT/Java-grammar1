@@ -100,6 +100,13 @@ public class MapTest {
          * 1,根据 key 计算 hash 值。
          * 2,找到相应的数组下标：hash & (length – 1)。
          * 3,遍历该数组位置处的链表，直到找到相等(==或equals)的 key
+         *
+         * 在HashMap中存在Fail-Fast机制：我们知道java.util.HashMap不是线程安全的，因此如果在使用迭代器的过程中有其他线程
+         * 修改了map，那么将抛出ConcurrentModificationException，这就是所谓fail-fast策略
+         * 这一策略在源码中的实现是通过modCount域，modCount顾名思义就是修改次数，对HashMap内容的修改都将增加这个值，那么
+         * 在迭代器初始化过程中会将这个值赋给迭代器的expectedModCount。
+         * 在迭代过程中，判断modCount跟expectedModCount是否相等，如果不相等就表示已经有其他线程修改了Map：
+         *
          */
         // 既然我们说到了HashMap.那么我们也应该了解了解ConcurrentHashMap
         /*

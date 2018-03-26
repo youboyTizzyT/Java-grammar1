@@ -61,7 +61,7 @@ public class FailFast {
      *
      *  CopyOnWrite这一般需要很大的开销 但是当遍历操作数量大大超过可变操作的数量时 线程安全的变体
      *  可变操作（add、set等等）都是通过对底层数组进行一次新的复制来实现的
-     *  但是保证读的高性能,适用于以读为主的情况
+     *  但是保证读的高性能,适用于以读为主的情况 CopyOnWrite后面详细讲解
      * @param args
      */
     public static void main(String[] args) {
