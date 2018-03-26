@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4e076f5-01a5-49a7-89c3-d141e6187935" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day5/Test1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day5/Test2.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -185,7 +183,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test2.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Test2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day5/Test2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="250">
@@ -200,12 +198,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="继承的特性" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day5/extend/继承的特性">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="27" lean-forward="false" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
-              <folding />
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="75">
+                <caret line="3" column="86" lean-forward="false" selection-start-line="3" selection-start-column="86" selection-end-line="3" selection-end-column="86" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -247,7 +248,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/test/MaJiang/hognzhong.java" />
         <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day1/ZiDongLeiZhuan.java" />
         <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day1/QiangZhiZhuanHuan.java" />
         <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day1/HelloWorld.java" />
@@ -298,6 +298,7 @@
         <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day5/polymorphic/PolymorphicTest1.java" />
         <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day5/Test1.java" />
         <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day5/Test2.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -624,7 +625,7 @@
       <updated>1521191929276</updated>
       <workItem from="1521191931609" duration="50126000" />
       <workItem from="1521711235175" duration="17956000" />
-      <workItem from="1522035449728" duration="9736000" />
+      <workItem from="1522035449728" duration="9886000" />
     </task>
     <task id="LOCAL-00001" summary="2018.3.16 5.55&#10;java基础语法1">
       <created>1521194141275</created>
@@ -637,7 +638,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77818000" />
+    <option name="totallyTimeSpent" value="77968000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1096" extended-state="6" />
@@ -694,11 +695,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/operator/逻辑运算符.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/operator/算术运算符.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1249,6 +1245,17 @@
             <element signature="e#442#443#0" expanded="true" />
             <element signature="e#491#492#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="75">
+            <caret line="3" column="86" lean-forward="false" selection-start-line="3" selection-start-column="86" selection-end-line="3" selection-end-column="86" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
