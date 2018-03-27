@@ -1,7 +1,7 @@
 # Java-grammar
 例子都采用java1.8.151
 * 经过在公司一段时间,梳理了github上很多没用的例子,决定从今天开始,每天github打卡,复习一次java也给刚入门的问我问题的人们朋友们一点自己亲手打的例子
-每日更新文件前缀在 team.wt.javalearn.java.src.main.day* 不适用于新手观看,适用于已经会java的童鞋们复习阅读,加强记忆,形成记忆网络
+每日更新文件前缀在 team.wt.javalearn.java.src.main.day* 不适用于新手观看,适用于已经会java的童鞋们复习阅读,加强记忆,形成记忆网络,工作中大多数例子会使用,实战利器,有利于加快写代码速度.
  ## 更新简介 
 * **_2018.3.27_** 更新java 泛型,字符串的一些方法,数组的一些方法,时间,io文件操作的处理
 * **_2018.3.26_** 分享java 一些知识点https://blog.csdn.net/sdmjhca/article/details/75425851?ref=myread
