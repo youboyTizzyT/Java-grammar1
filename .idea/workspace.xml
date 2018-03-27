@@ -2,21 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4e076f5-01a5-49a7-89c3-d141e6187935" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day6/arrayMethod/ArrayTest1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day6/arrayMethod/ArrayTest10.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day6/arrayMethod/ArrayTest11.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day6/arrayMethod/ArrayTest2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day6/arrayMethod/ArrayTest3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day6/arrayMethod/ArrayTest4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day6/arrayMethod/ArrayTest5.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day6/arrayMethod/ArrayTest6.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day6/arrayMethod/ArrayTest7.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day6/arrayMethod/ArrayTest8.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day6/arrayMethod/ArrayTest9.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day6/arrayMethod/ArrayUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day6/printGraphical/Diamond.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day6/printGraphical/MultiplicationTable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/io/FileIo.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
@@ -127,7 +112,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FileIo.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FileIo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/io/FileIo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-2686">
@@ -135,6 +120,19 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="325">
+                <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -211,7 +209,6 @@
         <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day6/stringMethod/StringConcatenate.java" />
         <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day6/time/TimeTest1.java" />
         <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day6/time/TimeTest2.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day6/arrayMethod/ArrayTest1.java" />
         <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day6/arrayMethod/ArrayUtils.java" />
         <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day6/arrayMethod/ArrayTest2.java" />
@@ -228,6 +225,7 @@
         <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/printGraphical/MultiplicationTable.java" />
         <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day6/printGraphical/MultiplicationTable.java" />
         <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/io/FileIo.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -570,7 +568,7 @@
       <updated>1521191929276</updated>
       <workItem from="1521191931609" duration="50126000" />
       <workItem from="1521711235175" duration="17956000" />
-      <workItem from="1522035449728" duration="21272000" />
+      <workItem from="1522035449728" duration="21379000" />
     </task>
     <task id="LOCAL-00001" summary="2018.3.16 5.55&#10;java基础语法1">
       <created>1521194141275</created>
@@ -590,7 +588,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89354000" />
+    <option name="totallyTimeSpent" value="89461000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1096" extended-state="6" />
@@ -960,17 +958,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="125">
-            <caret line="5" column="50" lean-forward="false" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day6/arrayMethod/ArrayUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -1151,6 +1138,17 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="325">
+            <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
