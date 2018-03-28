@@ -5,18 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4e076f5-01a5-49a7-89c3-d141e6187935" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day1/JavaTime.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest6/ThreadPoolExecutorTest.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/smartfox_info.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Java-grammar.iml" afterPath="$PROJECT_DIR$/.idea/Java-grammar.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/day7/thread/threadtest/ReadMe.md" afterPath="$PROJECT_DIR$/target/classes/day7/thread/threadtest/ReadMe.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/ReadMe.md" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/ReadMe.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest6/ThreadFactoryTest1.java" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest6/ThreadFactoryTest1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest6/ThreadPoolExecutorTest.java" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest6/ThreadPoolExecutorTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,9 +41,9 @@
       <file leaf-file-name="ReadMe.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/ReadMe.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="280">
-                <caret line="21" column="54" lean-forward="false" selection-start-line="21" selection-start-column="54" selection-end-line="21" selection-end-column="54" />
+            <state split_layout="SECOND">
+              <first_editor relative-caret-position="700">
+                <caret line="28" column="53" lean-forward="false" selection-start-line="28" selection-start-column="53" selection-end-line="28" selection-end-column="53" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -78,11 +73,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ThreadPoolExecutorTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ThreadPoolExecutorTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest6/ThreadPoolExecutorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="393">
-              <caret line="123" column="40" lean-forward="false" selection-start-line="123" selection-start-column="40" selection-end-line="123" selection-end-column="40" />
+            <state relative-caret-position="457">
+              <caret line="124" column="5" lean-forward="false" selection-start-line="124" selection-start-column="5" selection-end-line="124" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -110,11 +105,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+            <state relative-caret-position="250">
+              <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -222,7 +217,6 @@
         <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/ThreadTest4/ReadWriteLock.java" />
         <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/ThreadTest4/ReadWriteLockTest.java" />
         <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest6/test.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0.jar!/redis/clients/jedis/JedisCommands.class" />
         <option value="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0.jar!/redis/clients/jedis/Jedis.class" />
         <option value="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0.jar!/redis/clients/jedis/Connection.class" />
@@ -231,6 +225,7 @@
         <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/ReadMe.md" />
         <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest6/ThreadFactoryTest1.java" />
         <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest6/ThreadPoolExecutorTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -386,24 +381,6 @@
             <path>
               <item name="Java-grammar" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="Java-grammar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: redis.clients:jedis:2.9.0" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="Java-grammar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: redis.clients:jedis:2.9.0" type="70bed36:NamedLibraryElementNode" />
-              <item name="jedis-2.9.0.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java-grammar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: redis.clients:jedis:2.9.0" type="70bed36:NamedLibraryElementNode" />
-              <item name="jedis-2.9.0.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="clients" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -657,7 +634,7 @@
       <workItem from="1522035449728" duration="25819000" />
       <workItem from="1522154926653" duration="15814000" />
       <workItem from="1522232793242" duration="532000" />
-      <workItem from="1522236452960" duration="8460000" />
+      <workItem from="1522236452960" duration="8831000" />
     </task>
     <task id="LOCAL-00001" summary="2018.3.16 5.55&#10;java基础语法1">
       <created>1521194141275</created>
@@ -684,7 +661,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="118707000" />
+    <option name="totallyTimeSpent" value="119078000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1096" extended-state="6" />
@@ -976,8 +953,8 @@
         <state relative-caret-position="634">
           <caret line="33" column="84" lean-forward="false" selection-start-line="33" selection-start-column="65" selection-end-line="33" selection-end-column="84" />
           <folding>
-            <element signature="e#386#387#0" expanded="true" />
-            <element signature="e#474#475#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="false" />
+            <element signature="e#474#475#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1073,25 +1050,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/ReadMe.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="280">
-            <caret line="21" column="54" lean-forward="false" selection-start-line="21" selection-start-column="54" selection-end-line="21" selection-end-column="54" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/concurrent/Executors.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="244">
@@ -1112,11 +1070,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest6/ThreadPoolExecutorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="123" column="40" lean-forward="false" selection-start-line="123" selection-start-column="40" selection-end-line="123" selection-end-column="40" />
+        <state relative-caret-position="457">
+          <caret line="124" column="5" lean-forward="false" selection-start-line="124" selection-start-column="5" selection-end-line="124" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/ReadMe.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="700">
+            <caret line="28" column="53" lean-forward="false" selection-start-line="28" selection-start-column="53" selection-end-line="28" selection-end-column="53" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>

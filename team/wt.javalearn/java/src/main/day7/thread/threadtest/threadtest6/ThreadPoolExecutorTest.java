@@ -123,5 +123,4 @@ public class ThreadPoolExecutorTest {
                 namedThreadFactory,
                 new ThreadPoolExecutor.CallerRunsPolicy());
     }
-
 }
