@@ -16,9 +16,10 @@ public class ThreadFactoryTest1 {
         //Common Thread Pool
         ExecutorService pool = new ThreadPoolExecutor(5, 200,
                 0L, TimeUnit.MILLISECONDS,
-                new LinkedBlockingQueue<Runnable>(1024), namedThreadFactory, new ThreadPoolExecutor.AbortPolicy());
+                new LinkedBlockingQueue<>(1024), namedThreadFactory, new ThreadPoolExecutor.AbortPolicy());
 
         pool.execute(()-> System.out.println(Thread.currentThread().getName()));
-        pool.shutdown();//gracefully shutdown
+        //gracefully shutdown
+        pool.shutdown();
     }
 }

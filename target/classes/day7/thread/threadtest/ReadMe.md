@@ -18,11 +18,14 @@
 4. newScheduledThreadPool:。创建一个大小无限的线程池。此线程池支持定时以及周期性执行任务的需求
 
 * 对于线程池,其实在阿里规范中明确提到,创建线程或线程池时请指定有意义的线程名称，方便出错时回溯。创建线程池的时候请使用带
-ThreadFactory的构造函数，并且提供自定义ThreadFactory实现或者使用第三方实现。在threadtest6中讲讲解ThreadFactory使用.线程池
-不允许使用Executors去创建，而是通过ThreadPoolExecutor的方式这样的处理方式让写的同学更加明确线程池的运行规则，规避资源耗尽
-的风险。 说明：Executors各个方法的弊端：
+ThreadFactory的构造函数，并且提供自定义ThreadFactory实现或者使用第三方实现。在threadtest6中讲讲解ThreadFactory使用和Thre
+adPoolExecutor.ThreadFactory的作用,是摆脱我们自己创建线程,现在让ThreadFactory来进行创建,ThreadPoolExecutor的作用是不用我
+们自己进行创建线程池,现在让ThreadPoolExecutor进行创建线程池,当然,这样的使用,使我们只需要关心线程内部的业务逻辑部分,从而不
+去进行写一大部分重复代码,在阿里规范里面:线程池不允许使用Executors去创建，而是通过ThreadPoolExecutor的方式这样的处理方式让
+写的同学更加明确线程池的运行规则，规避资源耗尽的风险。 说明：Executors各个方法的弊端：
 1. newFixedThreadPool和newSingleThreadExecutor:
   主要问题是堆积的请求处理队列可能会耗费非常大的内存，甚至OOM。
 2. newCachedThreadPool和newScheduledThreadPool:
-  主要问题是线程数最大数是Integer.MAX_VALUE，可能会创建数量非常多的线程，甚至OOM。
+  主要问题是线程数最大数是Integer.MAX_VALUE，可能会创建数量非常多的线程，甚至OOM。 
+
             
