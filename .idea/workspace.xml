@@ -5,24 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4e076f5-01a5-49a7-89c3-d141e6187935" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/DaemonThread.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/FirstThread.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/JoinThread.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/PriorityThread.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/StartDead.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/YieldThread.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/ReadMe.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/ThreadTest1/Account.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/ThreadTest1/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/ThreadTest1/People.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/ThreadTest2/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/ThreadTest2/Test2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/ThreadTest3/Account.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/ThreadTest3/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/ThreadTest3/People.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/ThreadTest4/ReadWriteLockTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/CheckThreadAlive.java" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/CheckThreadAlive.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/ReadMe.md" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/ReadMe.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -48,12 +31,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ReadMe.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ReadMe.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/ReadMe.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="125">
-                <caret line="5" column="57" lean-forward="false" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
+              <first_editor relative-caret-position="150">
+                <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -61,11 +44,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReadWriteLockTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ReadWriteLockTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/ThreadTest4/ReadWriteLockTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="19" column="46" lean-forward="false" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="46" />
+            <state relative-caret-position="400">
+              <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -253,9 +236,9 @@
         <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/ThreadTest3/Account.java" />
         <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/ThreadTest3/People.java" />
         <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/ThreadTest3/Main.java" />
-        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/ReadMe.md" />
         <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/ThreadTest4/ReadWriteLock.java" />
         <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/ThreadTest4/ReadWriteLockTest.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/ReadMe.md" />
       </list>
     </option>
   </component>
@@ -366,19 +349,6 @@
               <item name="day7" type="462c0819:PsiDirectoryNode" />
               <item name="thread" type="462c0819:PsiDirectoryNode" />
               <item name="threadtest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java-grammar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-grammar" type="462c0819:PsiDirectoryNode" />
-              <item name="team" type="462c0819:PsiDirectoryNode" />
-              <item name="wt.javalearn" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="day7" type="462c0819:PsiDirectoryNode" />
-              <item name="thread" type="462c0819:PsiDirectoryNode" />
-              <item name="threadtest" type="462c0819:PsiDirectoryNode" />
-              <item name="ThreadTest4" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java-grammar" type="b2602c69:ProjectViewProjectNode" />
@@ -647,7 +617,7 @@
       <workItem from="1521191931609" duration="50126000" />
       <workItem from="1521711235175" duration="17956000" />
       <workItem from="1522035449728" duration="25819000" />
-      <workItem from="1522154926653" duration="14742000" />
+      <workItem from="1522154926653" duration="15814000" />
     </task>
     <task id="LOCAL-00001" summary="2018.3.16 5.55&#10;java基础语法1">
       <created>1521194141275</created>
@@ -674,7 +644,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108643000" />
+    <option name="totallyTimeSpent" value="109715000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1096" extended-state="6" />
@@ -1089,24 +1059,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/ReadMe.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="125">
-            <caret line="5" column="57" lean-forward="false" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/ThreadTest4/ReadWriteLockTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" column="46" lean-forward="false" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="46" />
+        <state relative-caret-position="400">
+          <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/ReadMe.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="150">
+            <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
