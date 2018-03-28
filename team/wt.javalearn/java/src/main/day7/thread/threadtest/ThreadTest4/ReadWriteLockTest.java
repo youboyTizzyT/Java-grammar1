@@ -1,6 +1,5 @@
-package day7.thread.threadtest.ThreadTest4;
+package day7.thread.threadtest.threadtest4;
 
-import java.util.Date;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReadWriteLock;
 import java.util.concurrent.locks.ReentrantReadWriteLock;

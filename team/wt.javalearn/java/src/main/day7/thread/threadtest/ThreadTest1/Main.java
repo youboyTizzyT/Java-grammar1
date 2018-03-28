@@ -1,4 +1,4 @@
-package day7.thread.threadtest.ThreadTest1;
+package day7.thread.threadtest.threadtest1;
 
 /**
  * 执行类

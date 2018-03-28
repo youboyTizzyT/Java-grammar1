@@ -1,4 +1,4 @@
-package day7.thread.threadtest.ThreadTest3;
+package day7.thread.threadtest.threadtest3;
 
 import java.util.concurrent.locks.ReentrantLock;
 

@@ -1,4 +1,4 @@
-package day7.thread.threadtest.ThreadTest2;
+package day7.thread.threadtest.threadtest2;
 
 /**
  * 对堆内存的一次i++安全性测验

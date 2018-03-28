@@ -1,4 +1,4 @@
-package day7.thread.threadtest.ThreadTest3;
+package day7.thread.threadtest.threadtest3;
 /**
  * @author weicong
  * @date 2018/3/28 0028

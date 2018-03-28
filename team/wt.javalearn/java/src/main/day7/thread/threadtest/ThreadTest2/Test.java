@@ -1,4 +1,4 @@
-package day7.thread.threadtest.ThreadTest2;
+package day7.thread.threadtest.threadtest2;
 
 /**
  * 对静态区的一次i++
