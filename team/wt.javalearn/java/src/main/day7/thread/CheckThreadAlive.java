@@ -54,7 +54,7 @@ class Thread1 implements Runnable{
         }
         System.out.println(name+"线程运行结束准备进入了死亡状态");
     }
-    public void start(){
+    void  start(){
         if (t == null) {
             t = new Thread (this, name);
             t.start ();
