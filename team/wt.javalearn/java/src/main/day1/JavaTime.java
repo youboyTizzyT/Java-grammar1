@@ -1,6 +1,6 @@
 package day1;
 
-import redis.clients.jedis.Jedis;
+//import redis.clie/**/nts.jedis.Jedis;
 
 /**
  * 进行测试代码运行时间.

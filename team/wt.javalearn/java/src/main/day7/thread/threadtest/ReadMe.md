@@ -27,6 +27,7 @@ adPoolExecutor.ThreadFactory的作用,是摆脱我们自己创建线程,现在�
   主要问题是堆积的请求处理队列可能会耗费非常大的内存，甚至OOM。
 2. newCachedThreadPool和newScheduledThreadPool:
   主要问题是线程数最大数是Integer.MAX_VALUE，可能会创建数量非常多的线程，甚至OOM。 
-
+* threadtest7 将会讲解concurrent包下的重入锁.ReentrantLockTest1这个将会了解一个例子,来对ReentrantLock先来一步认识
+* threadtest8 讲解wati notify 和notifyAll的用法
 
             
