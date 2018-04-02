@@ -51,8 +51,15 @@ class Something{
     final private Object lock=new Object();
     private boolean isAccess=true;
     private boolean flag=true;
+
+    /**
+     *  所有线程走的方法
+     * @param name
+     */
     void accessBlock(String name){
+        // 首先判断是否isAccess
         if (!isAccess) {
+            // 锁住lock 使只能有一个人进行访问  当有人改变了isAccess后,其他人会一起抢lock这把锁
             synchronized (lock){
                 System.out.println(name+"线程等待");
                 try {
