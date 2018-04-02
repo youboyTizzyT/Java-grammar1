@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4e076f5-01a5-49a7-89c3-d141e6187935" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest15/RecursiveActionTest1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/concurrent包.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/ReadMe.md" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/ReadMe.md" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,13 +46,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Account.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Account.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest3/Account.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+              <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="concurrent包.png" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/concurrent包.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -116,16 +122,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2275">
               <caret line="91" column="18" lean-forward="false" selection-start-line="91" selection-start-column="18" selection-end-line="91" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="VolatileTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest14/VolatileTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="23" column="17" lean-forward="false" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -642,8 +638,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Administrator\Desktop\GitHub\Java-grammar\team\wt.javalearn\java\src\main\day7\thread\threadtest\threadtest15" />
       <recent name="C:\Users\Administrator\Desktop\GitHub\Java-grammar\team\wt.javalearn\java\src\main\day7\thread\threadtest" />
+      <recent name="C:\Users\Administrator\Desktop\GitHub\Java-grammar\team\wt.javalearn\java\src\main\day7\thread\threadtest\threadtest15" />
       <recent name="C:\Users\Administrator\Desktop\GitHub\Java-grammar\team\wt.javalearn\java\src\main\day7\thread" />
       <recent name="C:\Users\Administrator\Desktop\GitHub\Java-grammar\team\wt.javalearn\java\src\main\day4" />
       <recent name="C:\Users\Administrator\Desktop\GitHub\Java-grammar\team\wt.javalearn\java\src\main\HashMap内存结构" />
@@ -877,7 +873,7 @@
       <workItem from="1522293041484" duration="23491000" />
       <workItem from="1522650362521" duration="2728000" />
       <workItem from="1522653567254" duration="14979000" />
-      <workItem from="1522674523838" duration="1605000" />
+      <workItem from="1522674523838" duration="3120000" />
     </task>
     <task id="LOCAL-00001" summary="2018.3.16 5.55&#10;java基础语法1">
       <created>1521194141275</created>
@@ -904,7 +900,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="162951000" />
+    <option name="totallyTimeSpent" value="164466000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1096" extended-state="6" />
@@ -963,13 +959,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0.jar!/redis/clients/jedis/Client.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="44" column="61" lean-forward="false" selection-start-line="44" selection-start-column="61" selection-end-line="44" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0.jar!/redis/clients/jedis/Jedis.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="277">
@@ -1318,9 +1307,14 @@
     <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest3/Account.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/concurrent包.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
   </component>
