@@ -29,5 +29,17 @@ adPoolExecutor.ThreadFactory的作用,是摆脱我们自己创建线程,现在�
   主要问题是线程数最大数是Integer.MAX_VALUE，可能会创建数量非常多的线程，甚至OOM。 
 * threadtest7 将会讲解concurrent包下的重入锁.ReentrantLockTest1这个将会了解一个例子,来对ReentrantLock先来一步认识
 * threadtest8 讲解wati notify 和notifyAll的用法
-
+* threadtest9 CountDownLatch CyclicBarrier LockSupport用法
+* threadtest10 自定义异常处理线程异常.
+* threadtest11 线程组 例子.线程组我就没用过,所以,写个例子就行了.感觉这个东西没啥用.
+* threadtest12 ThreadLocal的使用和详解  分享关于ThreadLocal https://www.cnblogs.com/zhangjk1993/archive/2017/03/29/6641745.html
+* threadtest13 原子操作数据结构 在此只试用一下AtomicInteger
+* threadtest14 Volatile
+1. 内存屏障和编译屏障就是用来告诉CPU和编译器停止优化的手段。
+2. 编译屏障是指使用伪指令“memory”告诉编译器不能把“memory”执行前后的代码混淆在一起，
+3. 读操作远远大于写操作，volatile 变量还可以提供优于锁的性能优势。
+4. volatile不具备原子特性 单独使用 volatile 还不足以实现计数器、互斥锁
+5. 使用条件: 对变量的写操作不依赖于当前值  该变量没有包含在具有其他变量的不变式中 所以volatile一般用于一个状态的标识
+比如开服关服, 开销较低的读－写锁策略
+*  threadtest15 Fork/Join框架来并行执行任务
             
