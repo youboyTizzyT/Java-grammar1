@@ -41,5 +41,9 @@ adPoolExecutor.ThreadFactory的作用,是摆脱我们自己创建线程,现在�
 4. volatile不具备原子特性 单独使用 volatile 还不足以实现计数器、互斥锁
 5. 使用条件: 对变量的写操作不依赖于当前值  该变量没有包含在具有其他变量的不变式中 所以volatile一般用于一个状态的标识
 比如开服关服, 开销较低的读－写锁策略
-*  threadtest15 Fork/Join框架来并行执行任务
+*  threadtest15 Fork/Join框架来并行执行任务 
+ fork/join框架的使用有一定的约束条件：
+   1. 除了fork()  和  join()方法外，线程不得使用其他的同步工具。线程最好也不要sleep()
+   2. 线程不得进行I/O操作
+   3. 线程不得抛出checked exception
             
