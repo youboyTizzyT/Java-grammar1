@@ -7,6 +7,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
+ * Json 作为大部分前后端交互的消息格式,对于java的Json非常好使用,对于前后端交互消息拼接,非常容易.这里采用大阿里的fastjson
+ * json有json格式和jsonArray的两种,熟练使用,对数据的操控.
  * @author weicong
  * @date 2018/4/3 0003
  */
