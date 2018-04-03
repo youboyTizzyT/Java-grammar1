@@ -15,12 +15,21 @@ public class Account {
      */
     private double balance;
 
-    public Account(String accountNo, double balance){
-
+    /**
+     * 构造方法
+     * @param accountNo 账户编号
+     * @param balance 账号里面的金钱
+     */
+     Account(String accountNo, double balance){
         this.accountNo=accountNo;
         this.balance=balance;
     }
-    public void draw(double drawAmount){
+
+    /**
+     * 取钱操作
+     * @param drawAmount 传入一个取钱数
+     */
+     void draw(double drawAmount){
         /*
          * 判断
          */
@@ -32,6 +41,10 @@ public class Account {
             System.out.println("取钱失败");
         }
     }
+
+    /**
+     *  get set
+     */
     public String getAccountNo() {
         return accountNo;
     }
@@ -48,6 +61,11 @@ public class Account {
         this.balance = balance;
     }
 
+    /**
+     * 重写equals
+     * @param o 需要比较的对象
+     * @return bool 返回一个bool值
+     */
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
@@ -59,6 +77,10 @@ public class Account {
         return accountNo != null ? accountNo.equals(account.accountNo) : account.accountNo == null;
     }
 
+    /**
+     * 重写hashcode
+     * @return 返回hashcode值
+     */
     @Override
     public int hashCode() {
         int result;

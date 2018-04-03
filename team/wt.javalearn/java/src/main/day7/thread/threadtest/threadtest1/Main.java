@@ -14,6 +14,7 @@ public class Main {
         People people1 =new People(account,"卢本伟1",1500);
         People people2 =new People(account,"卢本伟2",1500);
         People people3 =new People(account,"卢本伟3",1500);
+        // 启动线程
         people.start();
         people1.start();
         people2.start();

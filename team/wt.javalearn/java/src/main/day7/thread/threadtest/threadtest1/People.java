@@ -6,8 +6,21 @@ package day7.thread.threadtest.threadtest1;
  * @date 2018/3/28 0028
  */
 public class People extends Thread{
+    /**
+     * 银行账户
+     */
     private Account account;
+    /**
+     * 每个人需要操作的钱数
+     */
     private double drawAmount;
+
+    /**
+     * 构造方法
+     * @param account 银行账户
+     * @param name 姓名
+     * @param drawAmount 每个人需要操作的钱数
+     */
     public People(Account account,String name,double drawAmount){
         super(name);
         this.account=account;

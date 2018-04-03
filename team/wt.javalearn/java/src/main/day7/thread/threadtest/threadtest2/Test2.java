@@ -8,6 +8,7 @@ package day7.thread.threadtest.threadtest2;
 public class Test2 {
     public static void main(String[] args) {
         Number number=new Number();
+        // 这里应该采用线程池创建
         new Calculator1(number).start();
         new Calculator1(number).start();
         new Calculator1(number).start();
@@ -15,15 +16,30 @@ public class Test2 {
 
     }
 }
+/**
+ * @author weicong
+ */
 class Calculator1 extends Thread{
-    Number number;
+    private Number number;
+    /**
+     * 构造方法
+     * @param number Number
+     */
     Calculator1(Number number){
         this.number=number;
     }
+
+    /**
+     * 重写Thread的run方法
+     */
     @Override
     public void run() {
         System.out.println(Thread.currentThread().getName()+"   "+number.getI());
-        for (int i = 0; i < 1000; i++) {
+        /*
+         for循环次数
+        */
+        int forNum = 1000;
+        for (int i = 0; i < forNum; i++) {
             number.setI(number.getI()+1);
         }
         System.out.println(Thread.currentThread().getName()+"   "+number.getI());
