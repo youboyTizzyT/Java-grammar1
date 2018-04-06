@@ -1,0 +1,97 @@
+//线程1:
+context = loadContext();   //语句1
+inited = true;             //语句2
+
+//线程2:
+while(!inited ){           //语句3
+  sleep()
+}
+doSomethingwithconfig(context); //语句4
+
+如果指令重排，thread1就会执行2-->1 这样thread2就会出现while直接为真，dosomethingwithconfig直接因为context没有初始值二报错
+
+
+也就是说cpu执行的真正顺序位
+cpu1
+语句2 12:12:12.1ms
+语句1 12:12:12.3ms
+
+cpu2
+语句3 12:12:12.2ms
+语句4 12:12:12.4ms
+
+Java内存模型具备一些先天的“有序性”，
+即不需要通过任何手段就能够得到保证的有序性，这个通常也称为 happens-before 原则。
+如果两个操作的执行次序无法从happens-before原则推导出来，
+那么它们就不能保证它们的有序性，虚拟机可以随意地对它们进行重排序。
+下面就来具体介绍下happens-before原则（先行发生原则）：
+
+锁定规则：一个unLock操作先行发生于后面对同一个锁的重新lock操作
+volatile变量规则：对一个变量的写操作先行发生于后面对这个变量的读操作
+传递规则：如果操作A先行发生于操作B，而操作B又先行发生于操作C，则可以得出操作A先行发生于操作C
+线程启动规则：Thread对象的start()方法先行发生于此线程的每个一个动作
+线程中断规则：对线程interrupt()方法的调用先行发生于被中断线程的代码检测到中断事件的发生
+线程终结规则：线程中所有的操作都先行发生于线程的终止检测，我们可以通过Thread.join()方法结束、Thread.isAlive()的返回值手段检测到线程已经终止执行
+对象终结规则：一个对象的初始化完成先行发生于他的finalize()方法的开始
+
+
+volatile关键字的两层语义
+
+一旦一个共享变量（类的成员变量、类的静态成员变量）被volatile修饰之后，那么就具备了两层语义：
+1）保证了不同线程对这个变量进行操作时的可见性，即一个线程修改了某个变量的值，这新值对其他线程来说是立即可见的。
+volatile关键字标识的变量，修改后立即刷新到主存
+2）禁止进行指令重排序。
+
+//线程1:
+context = loadContext();   //语句1
+inited = true;             //语句2 但inited是volatile关键字 那么语句2必然在语句1后面
+
+//线程2:
+while(!inited ){           //语句3
+  sleep()
+}
+doSomethingwithconfig(context); //语句4
+
+例子2：
+//x、y为非volatile变量
+//flag为volatile变量
+
+x = 2;        //语句1
+y = 0;        //语句2
+flag = true;  //语句3
+x = 4;         //语句4
+y = -1;       //语句5
+
+由于flag变量为volatile变量，那么在进行指令重排序的过程的时候，
+不会将语句3放到语句1、语句2前面，也不会讲语句3放到语句4、语句5后面。
+但是要注意语句1和语句2的顺序、语句4和语句5的顺序是不作任何保证的。
+
+并且volatile关键字能保证，执行到语句3时，语句1和语句2必定是执行完毕了的，
+且语句1和语句2的执行结果对语句3、语句4、语句5是可见的。
+
+例子3：double check
+class Singleton{
+    private volatile static Singleton instance = null;
+
+    private Singleton() {
+
+    }
+
+    public static Singleton getInstance() {
+        if(instance==null) {
+            synchronized (Singleton.class) {  //实质有了这句话，double check就可以了，不需要volatile
+                if(instance==null)
+                    instance = new Singleton();
+            }
+        }
+        return instance;
+    }
+}
+
+加入volatile关键字和没有加入volatile关键字时所生成的汇编代码发现，
+加入volatile关键字时，会多出一个lock前缀指令
+lock前缀指令实际上相当于一个内存屏障（也成内存栅栏），内存屏障会提供3个功能：
+1）它确保指令重排序时不会把其后面的指令排到内存屏障之前的位置，也不会把前面的指令排到内存屏障的后面；
+即在执行到内存屏障这句指令时，在它前面的操作已经全部完成；
+2）它会强制将对缓存的修改操作立即写入主存；
+3）如果是写操作，它会导致其他CPU中对应的缓存行无效。

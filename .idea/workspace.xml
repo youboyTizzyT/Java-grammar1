@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a4e076f5-01a5-49a7-89c3-d141e6187935" name="Default" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/Java-grammar.iml" afterPath="$PROJECT_DIR$/.idea/Java-grammar.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+=======
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest1/Account.java" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest1/Account.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest1/Main.java" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest1/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest1/People.java" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest1/People.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest2/Test.java" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest2/Test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest2/Test2.java" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest2/Test2.java" />
+>>>>>>> d7191709fb35e223613c6c6ee9b43d9430509842
     </list>
+    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,11 +42,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file leaf-file-name="MapTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day4/MapTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="3900">
               <caret line="132" column="18" lean-forward="false" selection-start-line="132" selection-start-column="18" selection-end-line="132" selection-end-column="18" />
+=======
+      <file leaf-file-name="JsonTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day8/JsonTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+>>>>>>> d7191709fb35e223613c6c6ee9b43d9430509842
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -42,6 +62,7 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="test1.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/test/test1.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -50,31 +71,58 @@
               <folding>
                 <element signature="e#259#260#0" expanded="true" />
                 <element signature="e#301#302#0" expanded="true" />
+=======
+      <file leaf-file-name="Arrays.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/Arrays.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="1862" column="34" lean-forward="false" selection-start-line="1862" selection-start-column="22" selection-end-line="1862" selection-end-column="34" />
+              <folding>
+                <element signature="e#88329#88330#0" expanded="true" />
+                <element signature="e#88386#88387#0" expanded="true" />
+>>>>>>> d7191709fb35e223613c6c6ee9b43d9430509842
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="Test2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/judge/Test2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
               <caret line="12" column="40" lean-forward="false" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+=======
+      <file leaf-file-name="China.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day8/China.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="5" lean-forward="false" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+>>>>>>> d7191709fb35e223613c6c6ee9b43d9430509842
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="ListTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day4/ListTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="630">
               <caret line="24" column="33" lean-forward="false" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+=======
+      <file leaf-file-name="RecursiveActionTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest15/RecursiveActionTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+>>>>>>> d7191709fb35e223613c6c6ee9b43d9430509842
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="Map.png" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day4/Map.png">
           <provider selected="true" editor-type-id="images">
@@ -90,6 +138,64 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+=======
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest2/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="750">
+              <caret line="30" column="23" lean-forward="true" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest2/Test2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="271">
+              <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Account.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest1/Account.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest1/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="16" column="15" lean-forward="false" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="People.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest1/People.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="City.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day8/City.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+              <folding />
+>>>>>>> d7191709fb35e223613c6c6ee9b43d9430509842
             </state>
           </provider>
         </entry>
@@ -116,9 +222,17 @@
       <find>concurrencyLevel</find>
       <find>ConcurrentHashMap</find>
       <find>modCount</find>
+      <find>HashIterator</find>
+      <find>remove</find>
+      <find>Runoob</find>
+      <find>createTempFile</find>
+      <find>开始执行</find>
+      <find>await</find>
+      <find>unpark</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
@@ -129,6 +243,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day_1/HelloWorld.java" />
         <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/test/qwe.java" />
         <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/test/MaJiang/hognzhong.java" />
@@ -174,6 +289,59 @@
         <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day4/smallKnowledge/FailFast.java" />
         <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day4/MapTest.java" />
         <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/test/test1.java" />
+=======
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/ThreadTest1/Account.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/ThreadTest1/People.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/ThreadTest1/Main.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/ThreadTest2/Test.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/ThreadTest2/Test2.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/ThreadTest3/Account.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/ThreadTest3/People.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/ThreadTest3/Main.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/ThreadTest4/ReadWriteLock.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/ThreadTest4/ReadWriteLockTest.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest6/test.java" />
+        <option value="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0.jar!/redis/clients/jedis/JedisCommands.class" />
+        <option value="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0.jar!/redis/clients/jedis/Jedis.class" />
+        <option value="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0.jar!/redis/clients/jedis/Connection.class" />
+        <option value="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0.jar!/redis/clients/jedis/Client.class" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest6/ThreadFactoryTest1.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest6/ThreadPoolExecutorTest.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/test/LoggerTest.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/test/log4j.properties" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/test/log4j.xml" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day1/JavaTime.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/test/log4j2.properties" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest6/ThreadFactoryTest.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest7/ReentrantLockTest1.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest8/WaitTest.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest8/WaitTest1.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest9/CyclicBarrierTest.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest9/LockSupportTest.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest9/CountDownTest.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest10/ExHandler.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest11/ThreadGroupTest.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest12/ThreadLocalTest.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest12/ThreadLocalTest1.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/test/test.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest13/AtomicTest.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest14/VolatileTest.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest15/RecursiveActionTest.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest15/RecursiveActionTest1.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/ReadMe.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day8/Province.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day8/City.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day8/China.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day8/arr2.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day8/JsonTest.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest1/Account.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest1/Main.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest1/People.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest2/Test.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest2/Test2.java" />
+>>>>>>> d7191709fb35e223613c6c6ee9b43d9430509842
       </list>
     </option>
   </component>
@@ -183,12 +351,33 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+<<<<<<< HEAD
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
+=======
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1928" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
+>>>>>>> d7191709fb35e223613c6c6ee9b43d9430509842
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -205,12 +394,24 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
+=======
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+>>>>>>> d7191709fb35e223613c6c6ee9b43d9430509842
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Java-grammar" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java-grammar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-grammar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-grammar" type="462c0819:PsiDirectoryNode" />
+              <item name=".logs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java-grammar" type="b2602c69:ProjectViewProjectNode" />
@@ -247,14 +448,121 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
+<<<<<<< HEAD
+=======
+            <path>
+              <item name="Java-grammar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-grammar" type="462c0819:PsiDirectoryNode" />
+              <item name="team" type="462c0819:PsiDirectoryNode" />
+              <item name="wt.javalearn" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="day7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-grammar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-grammar" type="462c0819:PsiDirectoryNode" />
+              <item name="team" type="462c0819:PsiDirectoryNode" />
+              <item name="wt.javalearn" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="day7" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-grammar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-grammar" type="462c0819:PsiDirectoryNode" />
+              <item name="team" type="462c0819:PsiDirectoryNode" />
+              <item name="wt.javalearn" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="day7" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+              <item name="threadtest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-grammar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-grammar" type="462c0819:PsiDirectoryNode" />
+              <item name="team" type="462c0819:PsiDirectoryNode" />
+              <item name="wt.javalearn" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="day7" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+              <item name="threadtest" type="462c0819:PsiDirectoryNode" />
+              <item name="threadtest2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-grammar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-grammar" type="462c0819:PsiDirectoryNode" />
+              <item name="team" type="462c0819:PsiDirectoryNode" />
+              <item name="wt.javalearn" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="day7" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+              <item name="threadtest" type="462c0819:PsiDirectoryNode" />
+              <item name="threadtest2" type="462c0819:PsiDirectoryNode" />
+              <item name="Test.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="Java-grammar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-grammar" type="462c0819:PsiDirectoryNode" />
+              <item name="team" type="462c0819:PsiDirectoryNode" />
+              <item name="wt.javalearn" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="day7" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+              <item name="threadtest" type="462c0819:PsiDirectoryNode" />
+              <item name="threadtest15" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-grammar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-grammar" type="462c0819:PsiDirectoryNode" />
+              <item name="team" type="462c0819:PsiDirectoryNode" />
+              <item name="wt.javalearn" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="day7" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+              <item name="threadtest" type="462c0819:PsiDirectoryNode" />
+              <item name="threadtest15" type="462c0819:PsiDirectoryNode" />
+              <item name="RecursiveActionTest.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="Java-grammar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-grammar" type="462c0819:PsiDirectoryNode" />
+              <item name="team" type="462c0819:PsiDirectoryNode" />
+              <item name="wt.javalearn" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="day8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-grammar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+>>>>>>> d7191709fb35e223613c6c6ee9b43d9430509842
           </expand>
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="Scratches" />
+=======
+>>>>>>> d7191709fb35e223613c6c6ee9b43d9430509842
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -262,21 +570,25 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+<<<<<<< HEAD
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+=======
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+>>>>>>> d7191709fb35e223613c6c6ee9b43d9430509842
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="GO_FMT" value="false" />
     <property name="settings.editor.splitter.proportion" value="0.24975514" />
-    <property name="SearchEverywhereHistoryKey" value="AbstractCollection&#9;PSI&#9;JAVA://java.util.AbstractCollection" />
+    <property name="SearchEverywhereHistoryKey" value="newFixedThreadPool&#9;PSI&#9;JAVA://java.util.concurrent.Executors#newFixedThreadPool&#10;FinalizableDelegatedExecutorService&#9;PSI&#9;JAVA://java.util.concurrent.Executors.FinalizableDelegatedExecutorService&#10;AbstractCollection&#9;PSI&#9;JAVA://java.util.AbstractCollection" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\GitHub\Java-grammar\team\wt.javalearn\java\src\main\day8" />
+      <recent name="C:\Users\Administrator\Desktop\GitHub\Java-grammar\team\wt.javalearn\java\src\main\day7\thread\threadtest" />
+      <recent name="C:\Users\Administrator\Desktop\GitHub\Java-grammar\team\wt.javalearn\java\src\main\day7\thread\threadtest\threadtest15" />
+      <recent name="C:\Users\Administrator\Desktop\GitHub\Java-grammar\team\wt.javalearn\java\src\main\day7\thread" />
       <recent name="C:\Users\Administrator\Desktop\GitHub\Java-grammar\team\wt.javalearn\java\src\main\day4" />
-      <recent name="C:\Users\Administrator\Desktop\GitHub\Java-grammar\team\wt.javalearn\java\src\main\HashMap内存结构" />
-      <recent name="C:\Users\Administrator\Desktop\GitHub\Java-grammar\team\wt.javalearn\java\src\main\day3\operator" />
-      <recent name="C:\Users\Administrator\Desktop\GitHub\Java-grammar\team\wt.javalearn\java\src\main\day3\Modifier" />
-      <recent name="C:\Users\Administrator\Desktop\GitHub\Java-grammar\team\wt.javalearn\java\src\main\day3" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -291,6 +603,7 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.test1">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
@@ -300,13 +613,17 @@
       <module />
     </configuration>
     <configuration name="FailFast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+=======
+  <component name="RunManager" selected="Application.JsonTest">
+    <configuration name="JsonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+>>>>>>> d7191709fb35e223613c6c6ee9b43d9430509842
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="day4.smallKnowledge.*" />
+          <option name="PATTERN" value="day8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="day4.smallKnowledge.FailFast" />
+      <option name="MAIN_CLASS_NAME" value="day8.JsonTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -318,14 +635,17 @@
       <module name="Java-grammar" />
       <envs />
     </configuration>
+<<<<<<< HEAD
     <configuration name="MapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+=======
+    <configuration name="RecursiveActionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="day4.*" />
+          <option name="PATTERN" value="day7.thread.threadtest.threadtest15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="day4.MapTest" />
+      <option name="MAIN_CLASS_NAME" value="day7.thread.threadtest.threadtest15.RecursiveActionTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -337,14 +657,15 @@
       <module name="Java-grammar" />
       <envs />
     </configuration>
-    <configuration name="Shift" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="ThreadLocalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+>>>>>>> d7191709fb35e223613c6c6ee9b43d9430509842
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="day4.smallKnowledge.*" />
+          <option name="PATTERN" value="day7.thread.threadtest.threadtest12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="day4.smallKnowledge.Shift" />
+      <option name="MAIN_CLASS_NAME" value="day7.thread.threadtest.threadtest12.ThreadLocalTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -356,14 +677,14 @@
       <module name="Java-grammar" />
       <envs />
     </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="ThreadLocalTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="day3.judge.*" />
+          <option name="PATTERN" value="day7.thread.threadtest.threadtest12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="day3.judge.Test2" />
+      <option name="MAIN_CLASS_NAME" value="day7.thread.threadtest.threadtest12.ThreadLocalTest1" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -457,6 +778,7 @@
       <properties />
       <listeners />
     </configuration>
+<<<<<<< HEAD
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -477,6 +799,41 @@
         <item index="2" class="java.lang.String" itemvalue="Application.Shift" />
         <item index="3" class="java.lang.String" itemvalue="Application.Test2" />
         <item index="4" class="java.lang.String" itemvalue="Application.MapTest" />
+=======
+    <configuration name="arr2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="day8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="day8.arr2" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_151\jre" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Java-grammar" />
+      <envs />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.ThreadLocalTest" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ThreadLocalTest1" />
+      <item index="2" class="java.lang.String" itemvalue="Application.RecursiveActionTest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.arr2" />
+      <item index="4" class="java.lang.String" itemvalue="Application.JsonTest" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.JsonTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.arr2" />
+        <item index="2" class="java.lang.String" itemvalue="Application.RecursiveActionTest" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ThreadLocalTest1" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ThreadLocalTest" />
+>>>>>>> d7191709fb35e223613c6c6ee9b43d9430509842
       </list>
     </recent_temporary>
   </component>
@@ -499,6 +856,7 @@
       <option name="presentableId" value="Default" />
       <updated>1521191929276</updated>
       <workItem from="1521191931609" duration="50126000" />
+<<<<<<< HEAD
       <workItem from="1521711235175" duration="11147000" />
       <workItem from="1521739099394" duration="1977000" />
       <workItem from="1521741385400" duration="610000" />
@@ -507,6 +865,18 @@
       <workItem from="1522510253331" duration="1682000" />
       <workItem from="1522513034862" duration="47000" />
       <workItem from="1523003183105" duration="44000" />
+=======
+      <workItem from="1521711235175" duration="17956000" />
+      <workItem from="1522035449728" duration="25819000" />
+      <workItem from="1522154926653" duration="15814000" />
+      <workItem from="1522232793242" duration="532000" />
+      <workItem from="1522236452960" duration="9901000" />
+      <workItem from="1522293041484" duration="23491000" />
+      <workItem from="1522650362521" duration="2728000" />
+      <workItem from="1522653567254" duration="14979000" />
+      <workItem from="1522674523838" duration="3201000" />
+      <workItem from="1522761964340" duration="2092000" />
+>>>>>>> d7191709fb35e223613c6c6ee9b43d9430509842
     </task>
     <task id="LOCAL-00001" summary="2018.3.16 5.55&#10;java基础语法1">
       <created>1521194141275</created>
@@ -515,11 +885,29 @@
       <option name="project" value="LOCAL" />
       <updated>1521194141275</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2018.3.16 5.55&#10;java基础语法1">
+      <created>1522071471014</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1522071471014</updated>
+    </task>
+    <task id="LOCAL-00003" summary="提交代码">
+      <created>1522159154000</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1522159154000</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="66627000" />
+=======
+    <option name="totallyTimeSpent" value="166639000" />
+>>>>>>> d7191709fb35e223613c6c6ee9b43d9430509842
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
@@ -527,6 +915,7 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -538,6 +927,20 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20042644" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+=======
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23541667" sideWeight="0.5063966" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37916666" sideWeight="0.4936034" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29904053" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+>>>>>>> d7191709fb35e223613c6c6ee9b43d9430509842
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22867803" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -549,10 +952,14 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+<<<<<<< HEAD
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827735" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+>>>>>>> d7191709fb35e223613c6c6ee9b43d9430509842
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -563,11 +970,16 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2018.3.16 5.55&#10;java基础语法1" />
-    <option name="LAST_COMMIT_MESSAGE" value="2018.3.16 5.55&#10;java基础语法1" />
+    <MESSAGE value="提交代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交代码" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+<<<<<<< HEAD
       <option name="time" value="3" />
+=======
+      <option name="time" value="8" />
+>>>>>>> d7191709fb35e223613c6c6ee9b43d9430509842
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -576,129 +988,226 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/modifier/ClassName.java">
+=======
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest5/ScheduledThreadPool.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="20" column="6" lean-forward="true" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        <state relative-caret-position="167">
+          <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/modifier/InstanceCounter.java">
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/test/log4j.xml" />
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day1/JavaTime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/test/LoggerTest.java" />
+    <entry file="file://$PROJECT_DIR$/.logs/automationlogs.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="100">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/test/log4j2.properties" />
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/线程状态图.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="134" column="13" lean-forward="false" selection-start-line="134" selection-start-column="4" selection-end-line="134" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest6/ThreadFactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest6/ThreadPoolExecutorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1900">
+          <caret line="76" column="49" lean-forward="false" selection-start-line="76" selection-start-column="49" selection-end-line="76" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest8/WaitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="26" column="31" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="26" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest8/WaitTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="24" column="44" lean-forward="false" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
+>>>>>>> d7191709fb35e223613c6c6ee9b43d9430509842
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="521" column="40" lean-forward="false" selection-start-line="521" selection-start-column="36" selection-end-line="521" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/concurrent/CountDownLatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="290" column="18" lean-forward="false" selection-start-line="290" selection-start-column="18" selection-end-line="290" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/concurrent/Executors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="88" column="46" lean-forward="false" selection-start-line="88" selection-start-column="38" selection-end-line="88" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/concurrent/CyclicBarrier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="430" column="20" lean-forward="false" selection-start-line="430" selection-start-column="15" selection-end-line="430" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest9/CyclicBarrierTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1375">
+          <caret line="55" column="68" lean-forward="false" selection-start-line="55" selection-start-column="68" selection-end-line="55" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/concurrent/locks/LockSupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="140" column="18" lean-forward="false" selection-start-line="140" selection-start-column="12" selection-end-line="140" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest9/LockSupportTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="21" column="10" lean-forward="false" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+          <caret line="12" column="3" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/modifier/SinletonVolatileTest.java">
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest9/CountDownTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        <state relative-caret-position="475">
+          <caret line="19" column="75" lean-forward="false" selection-start-line="19" selection-start-column="75" selection-end-line="19" selection-end-column="75" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/modifier/TransientTest1.java">
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest7/ReentrantLockTest1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="36" column="37" lean-forward="true" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
+        <state relative-caret-position="-641">
+          <caret line="94" column="6" lean-forward="false" selection-start-line="94" selection-start-column="6" selection-end-line="94" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/operator/逻辑运算符.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/operator/算术运算符.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/operator/关系运算符.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/operator/RelationshipTest.java">
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest10/ExHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        <state relative-caret-position="100">
+          <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/operator/PositionTest.java">
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest11/ThreadGroupTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        <state relative-caret-position="1150">
+          <caret line="50" column="17" lean-forward="false" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/operator/LogicTest.java">
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest12/ThreadLocalTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        <state relative-caret-position="125">
+          <caret line="5" column="32" lean-forward="false" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/operator/ArithmeticTest.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/ThreadLocal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        <state relative-caret-position="257">
+          <caret line="491" column="32" lean-forward="false" selection-start-line="491" selection-start-column="26" selection-end-line="491" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/operator/AssignmentTest.java">
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/test/test.java" />
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest12/ThreadLocalTest1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="26" column="16" lean-forward="true" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+        <state relative-caret-position="1750">
+          <caret line="74" column="5" lean-forward="false" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
+          <folding>
+            <element signature="e#240#241#0" expanded="false" />
+            <element signature="e#273#274#0" expanded="false" />
+            <element signature="e#390#391#0" expanded="false" />
+            <element signature="e#425#426#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/operator/InstanceofTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="22" column="28" lean-forward="false" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/loop/WhileTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/loop/ForTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="925">
-          <caret line="37" column="11" lean-forward="true" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/loop/NineNineSurface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+<<<<<<< HEAD
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/String.java" />
     <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day4/StringTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
           <caret line="98" column="51" lean-forward="false" selection-start-line="98" selection-start-column="51" selection-end-line="98" selection-end-column="51" />
+=======
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest13/AtomicTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="28" column="32" lean-forward="false" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day4/SetTest1.java">
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest14.java" />
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest14/VolatileTest.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="23" column="17" lean-forward="false" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+          <folding />
+>>>>>>> d7191709fb35e223613c6c6ee9b43d9430509842
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/指令重排">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="175">
           <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+=======
+        <state relative-caret-position="2275">
+          <caret line="91" column="18" lean-forward="false" selection-start-line="91" selection-start-column="18" selection-end-line="91" selection-end-column="18" />
+          <folding />
+>>>>>>> d7191709fb35e223613c6c6ee9b43d9430509842
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day4/SetTest2.java">
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest15/RecursiveActionTest1.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="834">
           <caret line="77" column="29" lean-forward="false" selection-start-line="77" selection-start-column="29" selection-end-line="77" selection-end-column="29" />
         </state>
@@ -737,10 +1246,57 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day4/ConcurrentHashMap内存结构.png">
+=======
+        <state relative-caret-position="1125">
+          <caret line="47" column="26" lean-forward="false" selection-start-line="47" selection-start-column="26" selection-end-line="47" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/ReadMe.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="1200">
+            <caret line="48" column="12" lean-forward="false" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest3/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest3/People.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest3/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/concurrent包.png">
+>>>>>>> d7191709fb35e223613c6c6ee9b43d9430509842
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/jre/lib/rt.jar!/sun/misc/Unsafe.class" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/concurrent/ConcurrentHashMap.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/HashMap.java" />
@@ -762,11 +1318,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3480">
           <caret line="148" column="42" lean-forward="false" selection-start-line="148" selection-start-column="39" selection-end-line="148" selection-end-column="42" />
+=======
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="375">
+            <caret line="15" column="53" lean-forward="false" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day3/judge/Test1.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="16" lean-forward="false" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day8/Province.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+          <folding />
+>>>>>>> d7191709fb35e223613c6c6ee9b43d9430509842
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day8/China.java">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="90">
           <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
         </state>
@@ -776,12 +1359,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="12" column="40" lean-forward="false" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+=======
+        <state relative-caret-position="125">
+          <caret line="5" column="5" lean-forward="false" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+>>>>>>> d7191709fb35e223613c6c6ee9b43d9430509842
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day4/ListTest.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="630">
           <caret line="24" column="33" lean-forward="false" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
           <folding />
@@ -791,18 +1379,49 @@
     <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day4/Map.png">
       <provider selected="true" editor-type-id="images">
         <state />
+=======
+        <state relative-caret-position="190">
+          <caret line="1862" column="34" lean-forward="false" selection-start-line="1862" selection-start-column="22" selection-end-line="1862" selection-end-column="34" />
+          <folding>
+            <element signature="e#88329#88330#0" expanded="true" />
+            <element signature="e#88386#88387#0" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day4/SetTest.java">
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day8/arr2.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="37" column="54" lean-forward="false" selection-start-line="37" selection-start-column="51" selection-end-line="37" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day8/City.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+          <folding />
+        </state>
+>>>>>>> d7191709fb35e223613c6c6ee9b43d9430509842
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day8/JsonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="270">
           <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+=======
+        <state relative-caret-position="275">
+          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+>>>>>>> d7191709fb35e223613c6c6ee9b43d9430509842
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day4/MapTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3900">
@@ -856,6 +1475,53 @@
             <element signature="e#259#260#0" expanded="true" />
             <element signature="e#301#302#0" expanded="true" />
           </folding>
+=======
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest15/RecursiveActionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="15" lean-forward="false" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest1/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest1/People.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest2/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="30" column="23" lean-forward="true" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day7/thread/threadtest/threadtest2/Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+          <folding />
+>>>>>>> d7191709fb35e223613c6c6ee9b43d9430509842
         </state>
       </provider>
     </entry>
@@ -937,6 +1603,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: com.google.code.findbugs:jsr305:1.3.9</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
