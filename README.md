@@ -3,7 +3,7 @@
 * 经过在公司一段时间,梳理了github上很多没用的例子,决定从今天开始,每天github打卡,复习一次java也给刚入门的问我问题的人们朋友们一点自己亲手打的例子
 每日更新文件前缀在 team.wt.javalearn.java.src.main.day* 不适用于新手观看,适用于已经会java的童鞋们复习阅读,加强记忆,形成记忆网络,工作中大多数例子会使用,实战利器,有利于加快写代码速度.
  ## 更新简介 
-* **_2018.4.03_** 更新java 1.8java更新的函数是变成lambda表达式的使用和例子。
+* **_2018.4.17_** 更新java 1.8java更新的函数式编程以及lambda表达式的使用和其他简便写法。
 * **_2018.4.03_** 更新java json使用
 * **_2018.4.02_** 分享 算法 跳跃表的实现 https://www.cnblogs.com/acfox/p/3688607.html
 * **_2018.4.02_** 更新java 更新结束concurrent包下的CountDownLatch CyclicBarrier LockSupport 自定义线程异常处理器 线程组 ThreadLocal Atomic Volatile forkjoin 
