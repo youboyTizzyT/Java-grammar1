@@ -1,4 +1,4 @@
-package dat11.structurePattern.Adapter.classAdapter;
+package dat11.structurePattern.adapter.classAdapter;
 
 public class Main {
     public static void main(String[] args) {

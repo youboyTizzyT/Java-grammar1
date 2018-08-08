@@ -1,4 +1,4 @@
-package dat11.structurePattern.Adapter.objectAdapter;
+package dat11.structurePattern.adapter.classAdapter;
 
 public class Source {
     public void sing(){

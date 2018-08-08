@@ -1,4 +1,4 @@
-package dat11.structurePattern.Adapter.interfaceAdapter;
+package dat11.structurePattern.adapter.interfaceAdapter;
 
 public class SourceSub1 extends Wrapper2{
     @Override

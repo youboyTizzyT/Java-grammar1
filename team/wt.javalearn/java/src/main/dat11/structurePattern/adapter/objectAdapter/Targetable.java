@@ -1,4 +1,4 @@
-package dat11.structurePattern.Adapter.classAdapter;
+package dat11.structurePattern.adapter.objectAdapter;
 
 public interface Targetable {
     // 与原方法相同名字

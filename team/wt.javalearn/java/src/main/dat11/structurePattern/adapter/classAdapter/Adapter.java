@@ -1,4 +1,4 @@
-package dat11.structurePattern.Adapter.classAdapter;
+package dat11.structurePattern.adapter.classAdapter;
 
 public class Adapter  implements Targetable {
     private Source source;

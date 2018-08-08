@@ -1,4 +1,4 @@
-package dat11.structurePattern.Adapter.objectAdapter;
+package dat11.structurePattern.adapter.objectAdapter;
 
 public class Adapter extends Source implements Targetable {
     @Override
