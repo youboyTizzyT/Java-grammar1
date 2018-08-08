@@ -1,0 +1,17 @@
+package dat11.designPattern.factoryMethodPattern;
+
+public abstract class Room {
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    private String name;
+
+    public void relax() {
+        System.out.println("in "+this.getName()+" relax");
+    }
+}
