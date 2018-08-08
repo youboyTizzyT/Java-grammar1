@@ -1,4 +1,4 @@
-package dat11.designPattern.builderPattern;
+package dat11.creationPattern.builderPattern;
 
 public abstract class Baby {
     public String name;

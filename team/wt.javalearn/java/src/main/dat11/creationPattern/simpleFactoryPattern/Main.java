@@ -1,4 +1,4 @@
-package dat11.designPattern.simpleFactoryPattern;
+package dat11.creationPattern.simpleFactoryPattern;
 
 public class Main {
     public static void main(String[] args) {

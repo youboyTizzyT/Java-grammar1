@@ -1,4 +1,4 @@
-package dat11.designPattern.simpleFactoryPattern;
+package dat11.creationPattern.simpleFactoryPattern;
 
 public class Factory {
     public static Room createRoom(int arg){

@@ -1,4 +1,4 @@
-package dat11.designPattern.factoryMethodPattern;
+package dat11.creationPattern.factoryMethodPattern;
 
 public abstract class Room {
     public String getName() {

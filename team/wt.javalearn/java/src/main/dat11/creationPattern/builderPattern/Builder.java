@@ -1,4 +1,4 @@
-package dat11.designPattern.builderPattern;
+package dat11.creationPattern.builderPattern;
 
 import java.util.ArrayList;
 import java.util.List;

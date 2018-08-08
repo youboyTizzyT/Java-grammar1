@@ -1,4 +1,4 @@
-package dat11.designPattern.factoryMethodPattern;
+package dat11.creationPattern.factoryMethodPattern;
 
 public class RoomC extends Room{
     public RoomC(){
