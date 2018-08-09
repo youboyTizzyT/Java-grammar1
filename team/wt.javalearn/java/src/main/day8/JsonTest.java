@@ -2,6 +2,7 @@ package day8;
 
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONArray;
+import com.alibaba.fastjson.JSONObject;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -39,5 +40,24 @@ public class JsonTest {
         System.out.println(result2);
         JSONArray arr=JSON.parseArray(result2);
         System.out.println(arr.get(0));
+        /**
+         * json字符串转换成类
+         */
+        String json="{\"city\":[\"哈尔滨\",\"大庆\"]}";
+        System.out.println(json);
+        City city=  JSONObject.parseObject(json,City.class);
+        System.out.println(JSONObject.toJSON(city));
+
+        String json1="[{\"name\":\"中国\",\"province\":[{\"citys\":{\"city\":[\"哈尔滨\",\"大庆\"]},\"name\":\"黑龙江\"},{\"citys\":{\"city\":[\"广州\",\"深圳\",\"珠海\"]},\"name\":\"广东\"}]}]";
+        System.out.println(json1);
+        List<China> chinas=  JSONArray.parseArray(json1,China.class);
+        System.out.println(JSONArray.toJSON(chinas));
+
+
+        String json2="{}";
+        System.out.println(json2);
+        City city2=  JSONObject.parseObject(json2,City.class);
+        System.out.println(JSONObject.toJSON(city2));
+        System.out.println(city2.getCity());
     }
 }

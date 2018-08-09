@@ -5,44 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4e076f5-01a5-49a7-89c3-d141e6187935" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/bridge/Bridge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/bridge/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/bridge/MyBridge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/bridge/SourceSub1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/bridge/SourceSub2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/bridge/Sourceable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/bridge/jdbc.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/composite/Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/composite/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/decorator/Decorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/decorator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/decorator/Source.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/decorator/Sourceable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/facade/CPU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/facade/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/facade/Disk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/facade/Memory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/facade/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/proxy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/proxy/Proxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/proxy/Source.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/proxy/Sourceable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/strategy/AbstractCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/strategy/ICalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/strategy/Minus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/strategy/Multiply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/strategy/Plus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/strategy/StrategyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/flyweight/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/flyweight/FlyWeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/flyweight/FlyWeightFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java-grammar.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java-grammar.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/day10/http/windump安装与使用/WinPcap网络底层访问驱动包+V4.1.3+英文官方安装版@156_101093.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/Adapter/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/adapter/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/Adapter/classAdapter/Adapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/adapter/classAdapter/Adapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/Adapter/classAdapter/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/adapter/classAdapter/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/Adapter/classAdapter/Source.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/adapter/classAdapter/Source.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/Adapter/classAdapter/Targetable.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/adapter/classAdapter/Targetable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/Adapter/interfaceAdapter/SourceSub1.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/adapter/interfaceAdapter/SourceSub1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/Adapter/interfaceAdapter/SourceSub2.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/adapter/interfaceAdapter/SourceSub2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/Adapter/interfaceAdapter/Sourceable.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/adapter/interfaceAdapter/Sourceable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/Adapter/interfaceAdapter/Wrapper2.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/adapter/interfaceAdapter/Wrapper2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/Adapter/objectAdapter/Adapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/adapter/objectAdapter/Adapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/Adapter/objectAdapter/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/adapter/objectAdapter/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/Adapter/objectAdapter/Source.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/adapter/objectAdapter/Source.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/Adapter/objectAdapter/Targetable.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/adapter/objectAdapter/Targetable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day10/http/windump安装与使用/WinPcap网络底层访问驱动包+V4.1.3+英文官方安装版@156_101093.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day8/JsonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day8/JsonTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -70,16 +45,17 @@
     <session id="-1800804144">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.28" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="70" />
+          <entry key="java" value="92" />
           <entry key="jpg" value="1" />
           <entry key="md" value="1" />
         </counts>
@@ -87,18 +63,18 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Image" value="1" />
-          <entry key="JAVA" value="70" />
+          <entry key="JAVA" value="92" />
           <entry key="Markdown" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3293" />
+          <entry key="java" value="4085" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3293" />
+          <entry key="JAVA" value="4085" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.mvc.usages" />
@@ -109,64 +85,102 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/bridge/Client.java">
+        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/strategy/AbstractCalculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+            <state relative-caret-position="87">
+              <caret line="3" column="22" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/bridge/jdbc.jpg">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/strategy/Plus.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="174">
+              <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/strategy/Minus.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/strategy/Multiply.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/strategy/StrategyTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/composite/Tree.java">
+        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day8/JsonTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
-              <folding>
-                <element signature="e#116#117#0" expanded="true" />
-                <element signature="e#150#151#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/composite/TreeNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="32" column="31" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="31" />
+            <state relative-caret-position="350">
+              <caret line="50" column="38" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#121#122#0" expanded="true" />
-                <element signature="e#148#149#0" expanded="true" />
-                <element signature="e#188#189#0" expanded="true" />
-                <element signature="e#220#221#0" expanded="true" />
-                <element signature="e#238#239#0" expanded="true" />
-                <element signature="e#261#262#0" expanded="true" />
-                <element signature="e#459#460#0" expanded="true" />
-                <element signature="e#482#483#0" expanded="true" />
-                <element signature="e#532#533#0" expanded="true" />
-                <element signature="e#569#570#0" expanded="true" />
-                <element signature="e#633#634#0" expanded="true" />
-                <element signature="e#675#676#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/bridge/MyBridge.java">
+        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day8/City.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+            <state relative-caret-position="232">
+              <caret line="8" column="24" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day8/China.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/flyweight/FlyWeightFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
               <folding>
-                <element signature="e#103#104#0" expanded="true" />
-                <element signature="e#139#140#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/flyweight/FlyWeight.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+              <folding>
+                <element signature="e#96#97#0" expanded="true" />
+                <element signature="e#123#124#0" expanded="true" />
+                <element signature="e#163#164#0" expanded="true" />
+                <element signature="e#195#196#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -212,19 +226,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/designPattern/simpleFactoryPattern/RoomB.java" />
-        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/designPattern/factoryMethodPattern/Factory.java" />
-        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/designPattern/factoryMethodPattern/Room.java" />
-        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/designPattern/factoryMethodPattern/RoomC.java" />
-        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/designPattern/factoryMethodPattern/People.java" />
-        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/designPattern/factoryMethodPattern/RoomD.java" />
-        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/designPattern/factoryMethodPattern/ConcreteFactory.java" />
-        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/designPattern/builderPattern/Builder.java" />
-        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/designPattern/builderPattern/Baby.java" />
-        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/designPattern/builderPattern/BabyA.java" />
-        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/designPattern/builderPattern/BabyB.java" />
-        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/designPattern/builderPattern/Main.java" />
-        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/designPattern/factoryMethodPattern/Main.java" />
         <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/creationPattern/builderPattern/Main.java" />
         <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/creationPattern/singletonPattern.java" />
         <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/creationPattern/singletonPattern/Singleton.java" />
@@ -263,6 +264,19 @@
         <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/bridge/Client.java" />
         <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/composite/TreeNode.java" />
         <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/composite/Tree.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/decorator/Main.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/decorator/Decorator.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/flyweight/ConnectionPool.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/flyweight/FlyWeightFactory.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/flyweight/FlyWeight.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/flyweight/Client.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/strategy/ICalculator.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/strategy/AbstractCalculator.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/strategy/Plus.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/strategy/Minus.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/strategy/Multiply.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/strategy/StrategyTest.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day8/JsonTest.java" />
       </list>
     </option>
   </component>
@@ -286,10 +300,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1984" />
-    <option name="y" value="20" />
-    <option name="width" value="1918" />
-    <option name="height" value="1040" />
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -360,7 +374,18 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="dat11" type="462c0819:PsiDirectoryNode" />
-              <item name="structurePattern" type="462c0819:PsiDirectoryNode" />
+              <item name="strategy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-grammar1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-grammar1" type="462c0819:PsiDirectoryNode" />
+              <item name="team" type="462c0819:PsiDirectoryNode" />
+              <item name="wt.javalearn" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="dat11" type="462c0819:PsiDirectoryNode" />
+              <item name="creationPattern" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java-grammar1" type="b2602c69:ProjectViewProjectNode" />
@@ -372,7 +397,16 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="dat11" type="462c0819:PsiDirectoryNode" />
               <item name="structurePattern" type="462c0819:PsiDirectoryNode" />
-              <item name="composite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-grammar1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-grammar1" type="462c0819:PsiDirectoryNode" />
+              <item name="team" type="462c0819:PsiDirectoryNode" />
+              <item name="wt.javalearn" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="day8" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java-grammar1" type="b2602c69:ProjectViewProjectNode" />
@@ -411,17 +445,17 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="GO_FMT" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="newFixedThreadPool&#9;PSI&#9;JAVA://java.util.concurrent.Executors#newFixedThreadPool&#10;FinalizableDelegatedExecutorService&#9;PSI&#9;JAVA://java.util.concurrent.Executors.FinalizableDelegatedExecutorService&#10;AbstractCollection&#9;PSI&#9;JAVA://java.util.AbstractCollection" />
+    <property name="SearchEverywhereHistoryKey" value="json&#9;PSI&#9;JAVA://day8.JsonTest&#10;newFixedThreadPool&#9;PSI&#9;JAVA://java.util.concurrent.Executors#newFixedThreadPool&#10;FinalizableDelegatedExecutorService&#9;PSI&#9;JAVA://java.util.concurrent.Executors.FinalizableDelegatedExecutorService&#10;AbstractCollection&#9;PSI&#9;JAVA://java.util.AbstractCollection" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533718593205" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533780705311" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -455,7 +489,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Tree">
+  <component name="RunManager" selected="Application.JsonTest">
     <configuration default="true" type="tests" factoryName="Nosetests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -509,13 +543,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day10.socket.oobinline.Client" />
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dat11.structurePattern.flyweight.Client" />
       <module name="Java-grammar" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day10.socket.oobinline.*" />
+          <option name="PATTERN" value="dat11.structurePattern.flyweight.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -524,10 +558,10 @@
       </method>
     </configuration>
     <configuration name="JsonTest" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8 (1)" />
+      <option name="ALTERNATIVE_JRE_PATH" value="C:\java\jre" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="day8.JsonTest" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <module name="Java-grammar" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="day8.*" />
@@ -545,21 +579,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="dat11.structurePattern.proxy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="dat11.creationPattern.simpleFactoryPattern.Main" />
-      <module name="Java-grammar" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dat11.creationPattern.simpleFactoryPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -623,11 +642,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StrategyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dat11.behavioralPattern.strategy.StrategyTest" />
+      <module name="Java-grammar" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dat11.behavioralPattern.strategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ThreadLocalTest" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8 (1)" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="day7.thread.threadtest.threadtest12.ThreadLocalTest" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <module name="Java-grammar" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="day7.thread.threadtest.threadtest12.*" />
@@ -698,19 +731,20 @@
     <list>
       <item itemvalue="Application.JsonTest" />
       <item itemvalue="Application.ThreadLocalTest" />
-      <item itemvalue="Application.Client (1)" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.User" />
       <item itemvalue="Application.Tree" />
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.StrategyTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StrategyTest" />
+        <item itemvalue="Application.Client" />
         <item itemvalue="Application.Tree" />
         <item itemvalue="Application.User" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -742,7 +776,10 @@
       <workItem from="1533635648302" duration="1609000" />
       <workItem from="1533637494791" duration="8637000" />
       <workItem from="1533712099855" duration="23000" />
-      <workItem from="1533715674491" duration="2827000" />
+      <workItem from="1533715674491" duration="5366000" />
+      <workItem from="1533779791168" duration="913000" />
+      <workItem from="1533780842355" duration="1199000" />
+      <workItem from="1533811038654" duration="261000" />
     </task>
     <task id="LOCAL-00001" summary="2018.3.16 5.55&#10;java基础语法1">
       <created>1521194141275</created>
@@ -769,13 +806,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="201998000" />
+    <option name="totallyTimeSpent" value="206910000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31823027" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32942432" />
       <window_info id="Structure" order="1" weight="0.22867803" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -784,7 +821,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32916668" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4936034" visible="true" weight="0.37893593" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4936034" weight="0.37893593" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -823,125 +860,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/creationPattern/factoryMethodPattern/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/creationPattern/builderPattern/BabyB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/creationPattern/builderPattern/BabyA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/creationPattern/builderPattern/Baby.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/creationPattern/builderPattern/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/creationPattern/singletonPattern.java" />
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/creationPattern/simpleFactoryPattern/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="4" column="26" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/creationPattern/singletonPattern/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/adapter/classAdapter/Targetable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/adapter/objectAdapter/Adapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/adapter/classAdapter/Source.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/adapter/objectAdapter/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/adapter/objectAdapter/Source.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/adapter/objectAdapter/Targetable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/adapter/classAdapter/Adapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-          <folding>
-            <element signature="e#160#161#0" expanded="true" />
-            <element signature="e#194#195#0" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
-            <element signature="e#262#263#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/adapter/classAdapter/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/adapter/interfaceAdapter/Sourceable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/adapter/interfaceAdapter/Wrapper2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="87">
@@ -953,10 +871,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
           <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
-          <folding>
-            <element signature="e#140#141#0" expanded="true" />
-            <element signature="e#182#183#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -964,52 +878,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="232">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#140#141#0" expanded="true" />
-            <element signature="e#180#181#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/decorator/Sourceable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/proxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/decorator/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/decorator/Decorator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="13" column="21" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/decorator/Source.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="30" selection-start-column="30" selection-end-column="30" />
-          <folding>
-            <element signature="e#132#133#0" expanded="true" />
-            <element signature="e#190#191#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/proxy.java" />
     <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/proxy/Sourceable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="87">
@@ -1021,10 +893,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
           <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
-          <folding>
-            <element signature="e#121#122#0" expanded="true" />
-            <element signature="e#157#158#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1032,18 +900,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="319">
           <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
-          <folding>
-            <element signature="e#266#267#0" expanded="true" />
-            <element signature="e#302#303#0" expanded="true" />
-            <element signature="e#343#344#0" expanded="true" />
-            <element signature="e#379#380#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/Facade.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/Facade.java" />
     <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/proxy/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-58">
@@ -1055,12 +915,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="87">
           <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="8" selection-end-column="5" />
-          <folding>
-            <element signature="e#84#85#0" expanded="true" />
-            <element signature="e#120#121#0" expanded="true" />
-            <element signature="e#162#163#0" expanded="true" />
-            <element signature="e#198#199#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1068,12 +922,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
           <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-          <folding>
-            <element signature="e#87#88#0" expanded="true" />
-            <element signature="e#137#138#0" expanded="true" />
-            <element signature="e#165#166#0" expanded="true" />
-            <element signature="e#216#217#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1081,12 +929,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="261">
           <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-          <folding>
-            <element signature="e#85#86#0" expanded="true" />
-            <element signature="e#136#137#0" expanded="true" />
-            <element signature="e#165#166#0" expanded="true" />
-            <element signature="e#217#218#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1115,10 +957,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
           <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
-          <folding>
-            <element signature="e#126#127#0" expanded="true" />
-            <element signature="e#162#163#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1126,10 +964,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
           <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
-          <folding>
-            <element signature="e#127#128#0" expanded="true" />
-            <element signature="e#163#164#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1137,14 +971,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="348">
           <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="e#126#127#0" expanded="true" />
-            <element signature="e#147#148#0" expanded="true" />
-            <element signature="e#192#193#0" expanded="true" />
-            <element signature="e#220#221#0" expanded="true" />
-            <element signature="e#268#269#0" expanded="true" />
-            <element signature="e#304#305#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1152,10 +978,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
           <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-          <folding>
-            <element signature="e#103#104#0" expanded="true" />
-            <element signature="e#139#140#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1222,31 +1044,153 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
           <caret line="32" column="31" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#121#122#0" expanded="true" />
-            <element signature="e#148#149#0" expanded="true" />
-            <element signature="e#188#189#0" expanded="true" />
-            <element signature="e#220#221#0" expanded="true" />
-            <element signature="e#238#239#0" expanded="true" />
-            <element signature="e#261#262#0" expanded="true" />
-            <element signature="e#459#460#0" expanded="true" />
-            <element signature="e#482#483#0" expanded="true" />
-            <element signature="e#532#533#0" expanded="true" />
-            <element signature="e#569#570#0" expanded="true" />
-            <element signature="e#633#634#0" expanded="true" />
-            <element signature="e#675#676#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/composite/Tree.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/decorator/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="6" column="43" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/decorator/Source.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/decorator/Sourceable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/flyweight/ConnectionPoolTest.java" />
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/flyweight/ConnectionPool.java" />
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/flyweight/Connection.java" />
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day4/MapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="617">
+          <caret line="52" column="11" selection-start-line="52" selection-start-column="11" selection-end-line="52" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/java/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="239" column="8" selection-start-line="239" selection-start-column="8" selection-end-line="239" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/decorator/Decorator.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="348">
-          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/flyweight/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/strategy/ICalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/strategy/AbstractCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/strategy/Plus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/strategy/Minus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/strategy/Multiply.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/strategy/StrategyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day8/City.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day8/China.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/flyweight/FlyWeightFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
           <folding>
-            <element signature="e#116#117#0" expanded="true" />
-            <element signature="e#150#151#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/flyweight/FlyWeight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+          <folding>
+            <element signature="e#96#97#0" expanded="true" />
+            <element signature="e#123#124#0" expanded="true" />
+            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day8/JsonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="50" column="38" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1309,7 +1253,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
