@@ -5,6 +5,7 @@ import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONObject;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 /**
@@ -58,6 +59,6 @@ public class JsonTest {
         System.out.println(json2);
         City city2=  JSONObject.parseObject(json2,City.class);
         System.out.println(JSONObject.toJSON(city2));
-        System.out.println(city2.getCity());
+        System.out.println(Arrays.toString(city2.getCity()));
     }
 }
