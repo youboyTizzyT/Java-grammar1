@@ -16,8 +16,10 @@ public class Singleton {
         return instance;
     }
     /**
+     *    懒汉式 线程安全
      *  普通的单例这个类可以满足基本要求，但是，像这样毫无线程安全保护的类，如果我们把它放入多线程的环境下，肯定就会出现问题了，
      *  如何解决？我们首先会想到对getInstance方法加synchronized关键字
+     *  但是当一个线程进入该方法之后，其它试图进入该方法的线程都必须等待，因此性能上有一定的损耗。
      */
     public static synchronized Singleton getInstance1(){
         if (instance==null){
@@ -26,8 +28,11 @@ public class Singleton {
         return instance;
     }
     /**
+     *  双重锁校验
      * synchronized关键字锁住的是这个对象，这样的用法，在性能上会有所下降，因为每次调用getInstance()，都要对对象上锁，事实上，
      * 只有在第一次创建对象的时候需要加锁，之后就不需要了，所以，这个地方需要改进。
+     * 双重校验锁先判断 uniqueInstance 是否已经被实例化，如果没有被实例化，那么才对实例化语句进行加锁。
+     * 如果是去掉任何一个if判断，都不会成为线程安全的
      */
     public static Singleton getInstance2() {
         if (instance == null) {
