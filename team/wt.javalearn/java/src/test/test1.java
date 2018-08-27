@@ -1,12 +1,27 @@
 import sun.misc.BASE64Decoder;
 import sun.misc.BASE64Encoder;
 import java.io.*;
+import java.util.Arrays;
+import java.util.HashSet;
+import java.util.Set;
 
 public class test1 {
     public static void main(String[] args) {
-        String strImg = getImageStr("./img.png");
-        System.out.println(strImg);
-        generateImage(strImg, "./86619-107.jpg");
+        int[] a={2,7,11,15};
+        System.out.println(Arrays.toString(test1.twoSum(a,9)));
+    }
+    public static int[] twoSum(int[] nums, int target) {
+        int[] b=new int[2];
+
+        for(int i=0;i<nums.length;i++){
+            for(int j=i+1;j<nums.length;j++){
+                if(nums[i]+nums[j]==target){
+                    b[0]=i;
+                    b[1]=j;
+                }
+            }
+        }
+        return b;
     }
     /**
      * @Description: 将base64编码字符串转换为图片

@@ -28,8 +28,7 @@ public class DiscardServerHandler extends ChannelHandlerAdapter {
             // 打印客户端输入，传输过来的的字符
             String string=in.toString(CharsetUtil.UTF_8);
             System.out.print(string);
-            ctx.write(msg); // (1)
-            ctx.flush(); // (2)
+            ctx.writeAndFlush(msg); // (1)
         } finally {
             /**
              * ByteBuf是一个引用计数对象，这个对象必须显示地调用release()方法来释放。

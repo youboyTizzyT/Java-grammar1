@@ -1,19 +1,18 @@
-package day12.firstnetty;
+package day12.timeserver;
+
 import io.netty.bootstrap.ServerBootstrap;
-import io.netty.channel.*;
+import io.netty.channel.ChannelFuture;
+import io.netty.channel.ChannelInitializer;
+import io.netty.channel.ChannelOption;
+import io.netty.channel.EventLoopGroup;
 import io.netty.channel.nio.NioEventLoopGroup;
 import io.netty.channel.socket.SocketChannel;
 import io.netty.channel.socket.nio.NioServerSocketChannel;
 
-import java.util.Map;
-
-/**
- * 丢弃任何进入的数据 启动服务端的DiscardServerHandler
- */
-public class DiscardServer {
+public class TimeServer {
     private int port;
 
-    public DiscardServer(int port) {
+    public TimeServer(int port) {
         super();
         this.port = port;
     }
@@ -54,7 +53,7 @@ public class DiscardServer {
             b = b.childHandler(new ChannelInitializer<SocketChannel>() { // (4)
                 @Override
                 public void initChannel(SocketChannel ch) throws Exception {
-                    ch.pipeline().addLast(new DiscardServerHandler());// demo1.discard
+                    ch.pipeline().addLast(new TimeServerHandler());// demo1.discard
                     // ch.pipeline().addLast(new
                     // ResponseServerHandler());//demo2.echo
                     // ch.pipeline().addLast(new
@@ -97,7 +96,7 @@ public class DiscardServer {
         } else {
             port = 8080;
         }
-        new DiscardServer(port).run();
+        new TimeServer(port).run();
         System.out.println("server:run()");
     }
 }
