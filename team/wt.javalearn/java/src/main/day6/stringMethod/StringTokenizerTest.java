@@ -3,6 +3,7 @@ package day6.stringMethod;
 import java.util.StringTokenizer;
 
 /**
+ * 分割
  * @author weicong
  * @date 2018/3/27 0027
  */
