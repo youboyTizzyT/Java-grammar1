@@ -2,15 +2,12 @@ package leetcode;
 
 import com.google.common.primitives.Ints;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.LinkedList;
-import java.util.List;
+import java.util.*;
 
 public class Solution9 {
 
     public static List<List<Integer>> threeSum(int[] nums) {
-
+        HashMap hashMap=new HashMap();
         List<List<Integer>> ret=new LinkedList<>();
         if (nums.length<3){
             return ret;
