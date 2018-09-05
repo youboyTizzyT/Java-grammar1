@@ -4,12 +4,13 @@ import java.io.*;
 import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
 import java.net.URL;
+import java.util.LinkedList;
 import java.util.Map;
+import java.util.Queue;
 import java.util.UUID;
 
 public class HttpUtil {
     private static final String TAG = "uploadFile";
-
 
     private static final int TIME_OUT = 10 * 1000; // 超时时间
 
