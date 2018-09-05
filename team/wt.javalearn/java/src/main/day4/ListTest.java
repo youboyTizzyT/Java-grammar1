@@ -1,5 +1,6 @@
 package day4;
 
+import java.lang.reflect.Field;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.LinkedList;
@@ -11,18 +12,44 @@ import java.util.List;
  * @date 2018/3/20 0020
  */
 public class ListTest {
+    public static int getArrayListCapacity(ArrayList<?> arrayList) {
+        Class<ArrayList> arrayListClass = ArrayList.class;
+        try {
+            Field field = arrayListClass.getDeclaredField("elementData");
+            field.setAccessible(true);
+            Object[] objects = (Object[])field.get(arrayList);
+            return objects.length;
+        } catch (NoSuchFieldException e) {
+            e.printStackTrace();
+            return -1;
+        } catch (IllegalAccessException e) {
+            e.printStackTrace();
+            return -1;
+        }
+    }
     public static void main(String[] args) {
         // 1 list中添加，获取，删除元素；
-        List<String> list=new ArrayList<>();
+        ArrayList<String> list=new ArrayList<>();
+        // 显示arraylist中实际数组的大小
+        System.out.println(getArrayListCapacity(list));
         list.add("jackie");
-        list.add("peter");
+        System.out.println(getArrayListCapacity(list));
+        for (int i = 0; i < 10; i++) {
+            list.add("peter");
+        }
+        System.out.println(getArrayListCapacity(list));
         list.add("annie");
+        System.out.println(getArrayListCapacity(list));
+
         // 输出: [jackie, peter, annie] 在这里,为什么输出一个List数据类型能得到一个字符串,因为List重写了toString方法
         System.out.println(list);
         list.remove("annie");
         list.remove(1);
         // 输出: [jackie]
         System.out.println(list);
+        list.clear();
+        // ArrayList 在添加数组的时候会扩容，但是删除的时候不会缩减
+        System.out.println(getArrayListCapacity(list));
         // 2 list中是否包含某个元素；
         List<String> list1=new ArrayList<>();
         list1.add("苹果");
