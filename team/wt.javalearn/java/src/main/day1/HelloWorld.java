@@ -14,7 +14,7 @@ public class HelloWorld {
          *  args[0] 是你传入的第一个参数，args[1]是传入的第二个参数
          */
         System.out.println("Hello World");
-//        System.out.println(args[0]);  // 在idea里面没法执行.只能出去使用java -cp 执行,可以获取参数
+        //  System.out.println(args[0]);  // 在idea里面必须进行设置.只能出去使用java -cp 执行,可以获取参数
         // 这是我们的第一个程序,时隔3年,重新打些这个例子,有些怀念大二的时光
         /*
          * 这里记一下java的一些专业术语.

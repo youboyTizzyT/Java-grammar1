@@ -1,57 +1,28 @@
 package leetcode;
 
-import com.google.common.primitives.Ints;
-
-import java.util.*;
-
+/**
+ * 回文数
+ */
 public class Solution9 {
-
-    public static List<List<Integer>> threeSum(int[] nums) {
-        HashMap hashMap=new HashMap();
-        List<List<Integer>> ret=new LinkedList<>();
-        if (nums.length<3){
-            return ret;
-        }
-        OUT:
-        while (nums.length>=3){
-            for (int i = 0; i < nums.length; i++) {
-                for (int j=1;j<nums.length;j++){
-                    for (int n=2;n< nums.length;n++){
-                        if (nums[i]+nums[j]+nums[n]==0){
-                            List<Integer> list=new LinkedList<>();
-                            list.add(nums[n]);
-                            list.add(nums[j]);
-                            list.add(nums[i]);
-                            remove(nums,nums[n]);
-                            remove(nums,nums[i]);
-                            remove(nums,nums[j]);
-                            ret.add(list);
-                            break OUT;
-                        }
-                    }
-                }
-                return ret;
-            }
-        }
-
-        return ret;
-    }
-    static int[] remove (int[] arr ,int b){
-        int index=-1;
-        for (int i = 0; i < arr.length; i++) {
-            if (arr[i]==b){
-                index=i;
-                break;
-            }
-        }
-        arr[index] = arr[arr.length-1];
-
-        arr = Arrays.copyOf(arr, arr.length-1);
-        return arr;
-    }
-
     public static void main(String[] args) {
-        int[] i={1,85,-3,8,2,13,1,56,13,156,541};
-        System.out.println(threeSum(i));
+        Solution9 solution9 =new Solution9();
+        System.out.println(solution9.isPalindrome(121));
+    }
+    public boolean isPalindrome(int x) {
+        char[] chars=String.valueOf(x).toCharArray();
+        for (int i = 0; i < chars.length/2; i++) {
+            if (chars[i]!=chars[chars.length-1-i]){
+                return false;
+            }
+        }
+        return true;
+    }
+    public boolean isPalindrome2(int x) {
+        StringBuffer sb = new StringBuffer(String.valueOf(x));
+        String s = sb.toString();
+        String reverse = sb.reverse().toString();
+        if(s.equals(reverse))
+            return true;
+        return false;
     }
 }

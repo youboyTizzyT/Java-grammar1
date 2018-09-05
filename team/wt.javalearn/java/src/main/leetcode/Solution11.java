@@ -2,7 +2,7 @@ package leetcode;
 /**
  * 盛最多水的容器
  */
-public class Solution8 {
+public class Solution11 {
     public static void main(String[] args) {
         int[] a={1,8,6,2,5,4,8,3,7};
         System.out.println(maxArea(a));
