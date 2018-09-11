@@ -1,3 +1,4 @@
+
 import sun.rmi.runtime.Log;
 
 import java.io.*;
@@ -26,6 +27,7 @@ public class HttpUtil {
      * @return 返回响应的内容
      */
     public static String uploadFile(File file, String RequestURL) {
+
         String result = null;
         String BOUNDARY = UUID.randomUUID().toString(); // 边界标识 随机生成
         String PREFIX = "--", LINE_END = "\r\n";

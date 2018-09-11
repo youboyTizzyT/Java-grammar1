@@ -5,99 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4e076f5-01a5-49a7-89c3-d141e6187935" name="Default" comment="提交代码">
-      <change afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day12/Nio与Bio比较.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day12/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/leetcode/Solution15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/command/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/command/Command.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/command/Invoker.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/command/Invoker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/command/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/command/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/command/MyCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/command/MyCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/command/Receiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/command/Receiver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/mediator/Colleague.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/mediator/Colleague.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/mediator/ColleagueA.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/mediator/ColleagueA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/mediator/CollegaueB.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/mediator/CollegaueB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/mediator/ConcreteMediator.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/mediator/ConcreteMediator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/mediator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/mediator/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/mediator/Mediator.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/mediator/Mediator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/observer/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/observer/Observer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/observer/Observerable.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/observer/Observerable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/observer/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/observer/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/observer/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/observer/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/observer/WechatServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/observer/WechatServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/state/difficult/ClosingState.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/state/difficult/ClosingState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/state/difficult/Context.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/state/difficult/Context.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/state/difficult/LiftState.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/state/difficult/LiftState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/state/difficult/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/state/difficult/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/state/difficult/OpenningState.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/state/difficult/OpenningState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/state/difficult/RunningState.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/state/difficult/RunningState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/state/difficult/StoppingState.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/state/difficult/StoppingState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/state/easy/ILift.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/state/easy/ILift.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/state/easy/Lift.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/state/easy/Lift.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/state/easy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/state/easy/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/strategy/AbstractCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/strategy/AbstractCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/strategy/ICalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/strategy/ICalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/strategy/Minus.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/strategy/Minus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/strategy/Multiply.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/strategy/Multiply.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/strategy/Plus.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/strategy/Plus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/strategy/StrategyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/strategy/StrategyTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/creationPattern/builderPattern/Baby.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/creationPattern/builderPattern/Baby.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/creationPattern/builderPattern/BabyA.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/creationPattern/builderPattern/BabyA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/creationPattern/builderPattern/BabyB.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/creationPattern/builderPattern/BabyB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/creationPattern/builderPattern/Builder.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/creationPattern/builderPattern/Builder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/creationPattern/builderPattern/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/creationPattern/builderPattern/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/creationPattern/factoryMethodPattern/ConcreteFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/creationPattern/factoryMethodPattern/ConcreteFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/creationPattern/factoryMethodPattern/Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/creationPattern/factoryMethodPattern/Factory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/creationPattern/factoryMethodPattern/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/creationPattern/factoryMethodPattern/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/creationPattern/factoryMethodPattern/People.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/creationPattern/factoryMethodPattern/People.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/creationPattern/factoryMethodPattern/Room.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/creationPattern/factoryMethodPattern/Room.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/creationPattern/factoryMethodPattern/RoomC.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/creationPattern/factoryMethodPattern/RoomC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/creationPattern/factoryMethodPattern/RoomD.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/creationPattern/factoryMethodPattern/RoomD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/creationPattern/simpleFactoryPattern/Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/creationPattern/simpleFactoryPattern/Factory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/creationPattern/simpleFactoryPattern/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/creationPattern/simpleFactoryPattern/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/creationPattern/simpleFactoryPattern/People.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/creationPattern/simpleFactoryPattern/People.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/creationPattern/simpleFactoryPattern/Room.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/creationPattern/simpleFactoryPattern/Room.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/creationPattern/simpleFactoryPattern/RoomA.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/creationPattern/simpleFactoryPattern/RoomA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/creationPattern/simpleFactoryPattern/RoomB.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/creationPattern/simpleFactoryPattern/RoomB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/creationPattern/singletonPattern/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/creationPattern/singletonPattern/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/adapter/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/structurePattern/adapter/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/adapter/classAdapter/Adapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/structurePattern/adapter/classAdapter/Adapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/adapter/classAdapter/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/structurePattern/adapter/classAdapter/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/adapter/classAdapter/Source.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/structurePattern/adapter/classAdapter/Source.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/adapter/classAdapter/Targetable.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/structurePattern/adapter/classAdapter/Targetable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/adapter/interfaceAdapter/SourceSub1.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/structurePattern/adapter/interfaceAdapter/SourceSub1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/adapter/interfaceAdapter/SourceSub2.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/structurePattern/adapter/interfaceAdapter/SourceSub2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/adapter/interfaceAdapter/Sourceable.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/structurePattern/adapter/interfaceAdapter/Sourceable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/adapter/interfaceAdapter/Wrapper2.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/structurePattern/adapter/interfaceAdapter/Wrapper2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/adapter/objectAdapter/Adapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/structurePattern/adapter/objectAdapter/Adapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/adapter/objectAdapter/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/structurePattern/adapter/objectAdapter/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/adapter/objectAdapter/Source.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/structurePattern/adapter/objectAdapter/Source.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/adapter/objectAdapter/Targetable.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/structurePattern/adapter/objectAdapter/Targetable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/bridge/Bridge.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/structurePattern/bridge/Bridge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/bridge/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/structurePattern/bridge/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/bridge/MyBridge.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/structurePattern/bridge/MyBridge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/bridge/SourceSub1.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/structurePattern/bridge/SourceSub1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/bridge/SourceSub2.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/structurePattern/bridge/SourceSub2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/bridge/Sourceable.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/structurePattern/bridge/Sourceable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/bridge/jdbc.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/structurePattern/bridge/jdbc.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/composite/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/structurePattern/composite/Tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/composite/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/structurePattern/composite/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/decorator/Decorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/structurePattern/decorator/Decorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/decorator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/structurePattern/decorator/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/decorator/Source.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/structurePattern/decorator/Source.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/decorator/Sourceable.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/structurePattern/decorator/Sourceable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/facade/CPU.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/structurePattern/facade/CPU.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/facade/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/structurePattern/facade/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/facade/Disk.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/structurePattern/facade/Disk.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/facade/Memory.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/structurePattern/facade/Memory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/facade/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/structurePattern/facade/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/flyweight/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/structurePattern/flyweight/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/flyweight/FlyWeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/structurePattern/flyweight/FlyWeight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/flyweight/FlyWeightFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/structurePattern/flyweight/FlyWeightFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/proxy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/structurePattern/proxy/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/proxy/Proxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/structurePattern/proxy/Proxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/proxy/Source.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/structurePattern/proxy/Source.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/proxy/Sourceable.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/structurePattern/proxy/Sourceable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/说明书.txt" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/说明书.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java-grammar.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java-grammar.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dat11/structurePattern/Adapter/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dat11/structurePattern/bridge/jdbc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dat11/说明书.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/leetcode/Solution189.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/leetcode/Solution189.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/leetcode/Solution5.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/leetcode/Solution5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/leetcode/Solution8.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/leetcode/Solution11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/leetcode/Solution9.java" beforeDir="false" afterPath="$PROJECT_DIR$/team/wt.javalearn/java/src/main/leetcode/Solution9.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -128,57 +46,73 @@
     <session id="-1800804144">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="10" />
-          <entry key="project.open.time.1" value="3" />
-          <entry key="project.open.time.2" value="2" />
+          <entry key="project.closed" value="26" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.1" value="8" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.2" value="3" />
           <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.28" value="1" />
-          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.3" value="3" />
           <entry key="project.open.time.36" value="1" />
           <entry key="project.open.time.5" value="2" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="5" />
-          <entry key="java" value="130" />
+          <entry key="amc" value="1" />
+          <entry key="asm" value="5" />
+          <entry key="class" value="17" />
+          <entry key="http" value="1" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="212" />
           <entry key="jpg" value="2" />
-          <entry key="md" value="3" />
-          <entry key="png" value="7" />
+          <entry key="md" value="4" />
+          <entry key="png" value="8" />
+          <entry key="pom" value="1" />
           <entry key="sql" value="3" />
           <entry key="txt" value="3" />
-          <entry key="xml" value="1" />
+          <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="5" />
-          <entry key="Image" value="9" />
-          <entry key="JAVA" value="130" />
-          <entry key="Markdown" value="3" />
-          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="CLASS" value="17" />
+          <entry key="HTTP Request" value="1" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="Image" value="10" />
+          <entry key="JAVA" value="212" />
+          <entry key="Markdown" value="4" />
+          <entry key="PLAIN_TEXT" value="9" />
           <entry key="SQL" value="1" />
           <entry key="Scratch" value="2" />
-          <entry key="XML" value="1" />
+          <entry key="XML" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="5108" />
+          <entry key="class" value="4" />
+          <entry key="dummy" value="5" />
+          <entry key="java" value="12809" />
           <entry key="md" value="104" />
           <entry key="sql" value="5" />
           <entry key="txt" value="303" />
-          <entry key="xml" value="17" />
+          <entry key="xml" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="5108" />
+          <entry key="CLASS" value="4" />
+          <entry key="JAVA" value="12809" />
           <entry key="Markdown" value="104" />
-          <entry key="PLAIN_TEXT" value="303" />
+          <entry key="PLAIN_TEXT" value="308" />
           <entry key="SQL" value="5" />
-          <entry key="XML" value="17" />
+          <entry key="XML" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.mvc.usages" />
@@ -189,37 +123,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/mediator/Main.java">
+        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/leetcode/Solution15.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/说明书.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day8/Province.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day8/JsonTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="640">
-              <caret line="61" column="53" selection-start-line="61" selection-start-column="53" selection-end-line="61" selection-end-column="53" />
+            <state relative-caret-position="1716">
+              <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -227,73 +134,93 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day12/timeserver/TimeClientHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/leetcode/SolutionWeek.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2772">
+              <caret line="85" selection-start-line="85" selection-end-line="85" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/leetcode/Solution11.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="2" column="10" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/leetcode/Solution9.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="20" column="23" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day12/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="87">
-                <caret line="3" column="33" lean-forward="true" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/command/MyCommand.java">
+        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/leetcode/Solution5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+            <state relative-caret-position="316">
+              <caret line="89" selection-start-line="89" selection-end-line="89" />
               <folding>
-                <element signature="e#162#163#0" expanded="true" />
-                <element signature="e#202#203#0" expanded="true" />
-                <element signature="e#240#241#0" expanded="true" />
-                <element signature="e#273#274#0" expanded="true" />
+                <element signature="method#longestPalindrome#0;class#Solution5#0" />
+                <element signature="method#isHuiWen#0;class#Solution5#0" />
+                <element signature="method#longestPalindrome1#0;class#Solution5#0" />
+                <element signature="method#expandAroundCenter#0;class#Solution5#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/command/Receiver.java">
+        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/leetcode/Solution867.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="3" column="22" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="22" />
-              <folding>
-                <element signature="e#95#96#0" expanded="true" />
-                <element signature="e#150#151#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="726">
+              <caret line="22" column="5" selection-start-line="14" selection-start-column="3" selection-end-line="22" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/command/Main.java">
+        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/leetcode/Solution189.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="891">
+              <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/mediator/ColleagueA.java">
+        <entry file="jar://C:/java/src.zip!/java/util/Comparator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+            <state relative-caret-position="2706">
+              <caret line="149" column="20" selection-start-line="149" selection-start-column="18" selection-end-line="149" selection-end-column="20" />
               <folding>
-                <element signature="e#223#224#0" expanded="true" />
-                <element signature="e#284#285#0" expanded="true" />
+                <element signature="docComment;method#compare#0;class#Comparator#0" />
+                <element signature="docComment;method#equals#0;class#Comparator#0" />
+                <element signature="docComment;method#reversed#0;class#Comparator#0" />
+                <element signature="docComment;method#thenComparing#0;class#Comparator#0" />
+                <element signature="docComment;method#thenComparing#1;class#Comparator#0" />
+                <element signature="docComment;method#thenComparing#2;class#Comparator#0" />
+                <element signature="docComment;method#thenComparingInt#0;class#Comparator#0" />
+                <element signature="docComment;method#thenComparingLong#0;class#Comparator#0" />
+                <element signature="docComment;method#thenComparingDouble#0;class#Comparator#0" />
               </folding>
             </state>
           </provider>
@@ -311,17 +238,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>out</find>
-      <find>“</find>
-      <find>”</find>
-      <find>fruits</find>
-      <find>String</find>
-      <find>capacity</find>
-      <find>threshold</find>
-      <find>put</find>
-      <find>concurrencyLevel</find>
-      <find>ConcurrentHashMap</find>
-      <find>modCount</find>
       <find>HashIterator</find>
       <find>remove</find>
       <find>Runoob</find>
@@ -332,6 +248,26 @@
       <find>OOb</find>
       <find>EXISTS</find>
       <find>　</find>
+      <find>A</find>
+      <find>B</find>
+      <find>hashCode</find>
+      <find>toString</find>
+      <find>test</find>
+      <find>test1</find>
+      <find>Node</find>
+      <find>call</find>
+      <find>runtime_call</find>
+      <find>Code</find>
+      <find>istore</find>
+      <find>invokevirtual</find>
+      <find>aload_1</find>
+      <find>Point</find>
+      <find>,</find>
+      <find>compare</find>
+      <find>;</find>
+      <find>add</find>
+      <find>al</find>
+      <find>alloc</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -341,34 +277,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/bridge/Client.java" />
-        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/composite/TreeNode.java" />
-        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/composite/Tree.java" />
-        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/decorator/Main.java" />
-        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/decorator/Decorator.java" />
-        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/flyweight/ConnectionPool.java" />
-        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/flyweight/FlyWeightFactory.java" />
-        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/flyweight/FlyWeight.java" />
-        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/structurePattern/flyweight/Client.java" />
-        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/strategy/ICalculator.java" />
-        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/strategy/AbstractCalculator.java" />
-        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/strategy/Plus.java" />
-        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/strategy/Minus.java" />
-        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/strategy/Multiply.java" />
-        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/strategy/StrategyTest.java" />
-        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/test/QrCodeCreateUtil.java" />
-        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/test/HttpUtil.java" />
-        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/test/nowxpay.sql" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/test/test1.java" />
-        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/state/ILift.java" />
-        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/state/Lift.java" />
-        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/state/LiftState.java" />
-        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/state/Context.java" />
-        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/state/OpenningState.java" />
-        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/state/RunningState.java" />
-        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/state/StoppingState.java" />
-        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/state/ClosingState.java" />
         <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/state/Main.java" />
         <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/state/easy/ILift.java" />
         <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/state/easy/Main.java" />
@@ -392,6 +300,34 @@
         <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/dat11/behavioralPattern/command/MyCommand.java" />
         <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day8/JsonTest.java" />
         <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day12/README.md" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/creationPattern/singletonPattern/Singleton.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/creationPattern/singletonPattern/Singleton1.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/creationPattern/singletonPattern/Singleton2.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day12/firstnetty/DiscardServerHandler.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day12/firstnetty/DiscardServer.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day12/timeserver/TimeServer.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day12/timeserver/TimeServerHandler.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/leetcode/Solution.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/leetcode/Solution1.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/leetcode/Solution2.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/leetcode/Solution3.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day12/timeserver/TimeClient.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/leetcode/Solution4.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/leetcode/Solution6.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day6/stringMethod/StringToUpperCaseEmp.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day6/stringMethod/StringTokenizerTest.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/leetcode/Solution7.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/leetcode/Solution8.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/test/test1.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/day12/timeserver/TimeClientHandler.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/leetcode/SolutionWeek.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/leetcode/Solution867.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/leetcode/Solution189.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/leetcode/Solution11.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/leetcode/Solution15.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/leetcode/Solution9.java" />
+        <option value="$PROJECT_DIR$/team/wt.javalearn/java/src/main/leetcode/Solution5.java" />
       </list>
     </option>
   </component>
@@ -414,11 +350,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="y" value="2" />
+    <option name="width" value="1932" />
+    <option name="height" value="1045" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -428,13 +364,37 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Java-grammar1" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java-grammar1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-grammar1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-grammar1" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-grammar1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-grammar1" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-grammar1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-grammar1" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-grammar1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-grammar1" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java-grammar1" type="b2602c69:ProjectViewProjectNode" />
@@ -488,6 +448,27 @@
               <item name="wt.javalearn" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="day12" type="462c0819:PsiDirectoryNode" />
+              <item name="timeserver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-grammar1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-grammar1" type="462c0819:PsiDirectoryNode" />
+              <item name="team" type="462c0819:PsiDirectoryNode" />
+              <item name="wt.javalearn" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-grammar1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-grammar1" type="462c0819:PsiDirectoryNode" />
+              <item name="team" type="462c0819:PsiDirectoryNode" />
+              <item name="wt.javalearn" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -497,27 +478,44 @@
             <path>
               <item name="Java-grammar1" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: net.iharder:base64:2.3.8" type="70bed36:NamedLibraryElementNode" />
+              <item name="Maven: io.netty:netty-all:5.0.0.Alpha2" type="70bed36:NamedLibraryElementNode" />
             </path>
             <path>
               <item name="Java-grammar1" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: net.iharder:base64:2.3.8" type="70bed36:NamedLibraryElementNode" />
-              <item name="base64-2.3.8.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="Maven: io.netty:netty-all:5.0.0.Alpha2" type="70bed36:NamedLibraryElementNode" />
+              <item name="netty-all-5.0.0.Alpha2.jar" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java-grammar1" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: net.iharder:base64:2.3.8" type="70bed36:NamedLibraryElementNode" />
-              <item name="base64-2.3.8.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="iharder" type="462c0819:PsiDirectoryNode" />
+              <item name="Maven: io.netty:netty-all:5.0.0.Alpha2" type="70bed36:NamedLibraryElementNode" />
+              <item name="netty-all-5.0.0.Alpha2.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="netty" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-grammar1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: io.netty:netty-all:5.0.0.Alpha2" type="70bed36:NamedLibraryElementNode" />
+              <item name="netty-all-5.0.0.Alpha2.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="netty" type="462c0819:PsiDirectoryNode" />
+              <item name="channel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-grammar1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: io.netty:netty-all:5.0.0.Alpha2" type="70bed36:NamedLibraryElementNode" />
+              <item name="netty-all-5.0.0.Alpha2.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="netty" type="462c0819:PsiDirectoryNode" />
+              <item name="channel" type="462c0819:PsiDirectoryNode" />
+              <item name="socket" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -526,13 +524,13 @@
     <property name="SearchEverywhereHistoryKey" value="json&#9;PSI&#9;JAVA://day8.JsonTest&#10;newFixedThreadPool&#9;PSI&#9;JAVA://java.util.concurrent.Executors#newFixedThreadPool&#10;FinalizableDelegatedExecutorService&#9;PSI&#9;JAVA://java.util.concurrent.Executors.FinalizableDelegatedExecutorService&#10;AbstractCollection&#9;PSI&#9;JAVA://java.util.AbstractCollection" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534415901107" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535950467741" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/nowpay/nowpay/merchantManagement" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
     <property name="settings.editor.splitter.proportion" value="0.24975514" />
   </component>
   <component name="RecentsManager">
@@ -560,7 +558,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Solution5">
     <configuration default="true" type="tests" factoryName="Nosetests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -629,13 +627,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day11.behavioralPattern.mediator.Main" />
+    <configuration name="Solution15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.Solution15" />
       <module name="Java-grammar" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day11.behavioralPattern.mediator.*" />
+          <option name="PATTERN" value="leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -643,13 +641,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day11.behavioralPattern.state.easy.Main" />
+    <configuration name="Solution189" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.Solution189" />
       <module name="Java-grammar" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day11.behavioralPattern.state.easy.*" />
+          <option name="PATTERN" value="leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -657,13 +655,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day11.behavioralPattern.command.Main" />
+    <configuration name="Solution5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.Solution5" />
       <module name="Java-grammar" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day11.behavioralPattern.command.*" />
+          <option name="PATTERN" value="leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -671,13 +669,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dat11.structurePattern.Adapter.classAdapter.Main" />
+    <configuration name="Solution867" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.Solution867" />
       <module name="Java-grammar" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dat11.structurePattern.Adapter.classAdapter.*" />
+          <option name="PATTERN" value="leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -685,13 +683,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day11.behavioralPattern.observer.Test" />
+    <configuration name="SolutionWeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.SolutionWeek" />
       <module name="Java-grammar" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day11.behavioralPattern.observer.*" />
+          <option name="PATTERN" value="leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -715,14 +713,6 @@
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test1" />
-      <module name="Java-grammar" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -754,19 +744,19 @@
     <list>
       <item itemvalue="Application.JsonTest" />
       <item itemvalue="Application.ThreadLocalTest" />
-      <item itemvalue="Application.test1" />
-      <item itemvalue="Application.Main (1)" />
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Solution15" />
+      <item itemvalue="Application.SolutionWeek" />
+      <item itemvalue="Application.Solution867" />
+      <item itemvalue="Application.Solution189" />
+      <item itemvalue="Application.Solution5" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Solution5" />
+        <item itemvalue="Application.Solution15" />
+        <item itemvalue="Application.Solution189" />
+        <item itemvalue="Application.Solution867" />
+        <item itemvalue="Application.SolutionWeek" />
       </list>
     </recent_temporary>
   </component>
@@ -807,6 +797,23 @@
       <workItem from="1534046960705" duration="7326000" />
       <workItem from="1534306743908" duration="639000" />
       <workItem from="1534411235080" duration="1835000" />
+      <workItem from="1534820549021" duration="2293000" />
+      <workItem from="1534925182150" duration="23000" />
+      <workItem from="1535099189830" duration="3666000" />
+      <workItem from="1535335150728" duration="596000" />
+      <workItem from="1535344573739" duration="17790000" />
+      <workItem from="1535443174446" duration="635000" />
+      <workItem from="1535444370869" duration="388000" />
+      <workItem from="1535445070325" duration="382000" />
+      <workItem from="1535446109611" duration="11807000" />
+      <workItem from="1535515318036" duration="7465000" />
+      <workItem from="1535531457439" duration="1427000" />
+      <workItem from="1535535407024" duration="3932000" />
+      <workItem from="1535539357855" duration="3613000" />
+      <workItem from="1535611092352" duration="2509000" />
+      <workItem from="1535613920354" duration="12146000" />
+      <workItem from="1535710289955" duration="15399000" />
+      <workItem from="1535978161288" duration="22000" />
     </task>
     <task id="LOCAL-00001" summary="2018.3.16 5.55&#10;java基础语法1">
       <created>1521194141275</created>
@@ -833,14 +840,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="227252000" />
+    <option name="totallyTimeSpent" value="311345000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="2" width="1932" height="1045" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13166311" />
-      <window_info id="Structure" order="1" weight="0.22867803" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23023504" />
+      <window_info id="Structure" order="1" weight="0.22863248" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -848,15 +854,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4936034" weight="0.29207385" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3995657" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6479701" weight="0.30515915" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.34906697" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32916668" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32899022" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5063966" side_tool="true" weight="0.23541667" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4978678" weight="0.32790446" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.35202992" side_tool="true" weight="0.2941822" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4978678" weight="0.32711306" />
       <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.32916668" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -882,382 +888,437 @@
     <MESSAGE value="提交代码" />
     <option name="LAST_COMMIT_MESSAGE" value="提交代码" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/leetcode/Solution1.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/java/src.zip!/java/lang/Boolean.java</url>
+          <line>228</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/team/wt.javalearn/java/src/test/test1.java</url>
+          <line>101</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/team/wt.javalearn/java/src/test/test1.java</url>
+          <line>76</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/leetcode/SolutionWeek.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/leetcode/Solution189.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/leetcode/Solution5.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/leetcode/Solution5.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/structurePattern/flyweight/FlyWeight.java">
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/leetcode/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+        <state relative-caret-position="2442">
+          <caret line="74" column="5" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/structurePattern/flyweight/FlyWeightFactory.java">
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/leetcode/Solution2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        <state relative-caret-position="231">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/google/zxing/javase/3.2.1/javase-3.2.1.jar!/com/google/zxing/client/j2se/MatrixToImageWriter.class">
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/leetcode/Solution3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        <state relative-caret-position="297">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/google/zxing/core/3.2.1/core-3.2.1.jar!/com/google/zxing/EncodeHintType.class">
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day12/timeserver/TimeServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="17" />
+        <state relative-caret-position="1617">
+          <caret line="49" column="47" selection-start-line="49" selection-start-column="47" selection-end-line="49" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/google/zxing/core/3.2.1/core-3.2.1.jar!/com/google/zxing/common/BitMatrix.class">
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day12/timeserver/TimeClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="928">
-          <caret line="37" column="11" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
+        <state relative-caret-position="1386">
+          <caret line="42" column="45" selection-start-line="42" selection-start-column="45" selection-end-line="42" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/test/nowxpay.sql" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/60de8363-d282-4fd2-8425-f14e71cc517a/console_1.sql">
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day12/timeserver/TimeServerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="39" column="16" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/java/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="507" column="29" lean-forward="true" selection-start-line="507" selection-start-column="29" selection-end-line="507" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/leetcode/Solution4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1716">
+          <caret line="58" column="9" selection-start-line="58" selection-start-column="9" selection-end-line="58" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/java/src.zip!/java/lang/Boolean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="237" column="50" lean-forward="true" selection-start-line="232" selection-start-column="50" selection-end-line="237" selection-end-column="50" />
+          <folding>
+            <element signature="e#6652#6653#0" expanded="true" />
+            <element signature="e#6694#6695#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/leetcode/Solution6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/leetcode/Solution7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day6/stringMethod/StringToUpperCaseEmp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day6/stringMethod/StringTokenizerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day6/stringMethod/StringReverseExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day6/stringMethod/StringReplaceEmp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day6/stringMethod/StringRegionMatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/java/src.zip!/java/lang/StringBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19932">
+          <caret line="651" column="39" selection-start-line="651" selection-start-column="28" selection-end-line="651" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/post-requests.http">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/leetcode/Solution8.class" />
+    <entry file="file://$PROJECT_DIR$/target/test-classes/aaa.amc">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/google/zxing/core/3.2.1/core-3.2.1-sources.jar!/com/google/zxing/MultiFormatWriter.java">
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/leetcode/Solution1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="812">
-          <caret line="55" column="18" selection-start-line="55" selection-start-column="18" selection-end-line="55" selection-end-column="18" />
+        <state relative-caret-position="429">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/net/iharder/base64/2.3.8/base64-2.3.8.jar!/net/iharder/Base64.class">
+    <entry file="file://$PROJECT_DIR$/target/test-classes/test1.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="570" column="41" selection-start-line="570" selection-start-column="33" selection-end-line="570" selection-end-column="41" />
+        <state relative-caret-position="825">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/test/QrCodeCreateUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1015">
-          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+        <state relative-caret-position="132">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/86619-107.jpg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/target/test-classes/test1.asm">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="22971" column="53" lean-forward="true" selection-start-line="22971" selection-start-column="53" selection-end-line="22971" selection-end-column="53" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="13563">
+          <caret line="411" column="19" selection-start-line="411" selection-start-column="19" selection-end-line="411" selection-end-column="19" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/60de8363-d282-4fd2-8425-f14e71cc517a/console.sql">
+    <entry file="file://$PROJECT_DIR$/target/test-classes/QrCodeCreateUtil.class">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/google/zxing/core/3.2.1/core-3.2.1-sources.jar!/com/google/zxing/common/BitMatrix.java">
+    <entry file="file://$PROJECT_DIR$/target/test-classes/HttpUtil.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/leetcode/ListNode.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1450">
-          <caret line="64" column="31" selection-start-line="64" selection-start-column="26" selection-end-line="64" selection-end-column="31" />
+        <state relative-caret-position="264">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/test/HttpUtil.java">
+    <entry file="file://$PROJECT_DIR$/target/classes/leetcode/ListNode.asm">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="184" column="50" selection-start-line="184" selection-start-column="50" selection-end-line="184" selection-end-column="50" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="LargeFileEditor" />
+    </entry>
+    <entry file="jar://C:/java/src.zip!/java/lang/StrictMath.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3393">
-          <caret line="117" column="38" selection-start-line="117" selection-start-column="38" selection-end-line="117" selection-end-column="38" />
+        <state relative-caret-position="237">
+          <caret line="358" column="23" selection-start-line="358" selection-start-column="23" selection-end-line="358" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day4/ListTest.java">
+    <entry file="jar://C:/java/src.zip!/java/lang/Math.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+        <state relative-caret-position="356">
+          <caret line="441" column="28" lean-forward="true" selection-start-line="441" selection-start-column="28" selection-end-line="441" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/java/src.zip!/java/awt/Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="173" lean-forward="true" selection-start-line="173" selection-end-line="173" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/java/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="336" column="19" selection-start-line="336" selection-start-column="19" selection-end-line="336" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/java/src.zip!/java/util/AbstractCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="461" column="55" lean-forward="true" selection-start-line="461" selection-start-column="55" selection-end-line="461" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/java/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="584" column="9" selection-start-line="584" selection-start-column="9" selection-end-line="584" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/test/test1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="742">
-          <caret line="63" selection-start-line="63" selection-end-line="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day8/China.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="857">
-          <caret line="54" column="26" selection-start-line="54" selection-start-column="26" selection-end-line="54" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/state/easy/ILift.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/state/easy/Lift.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/state/easy/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/state/difficult/ClosingState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/state/difficult/Context.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/state/difficult/LiftState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/state/difficult/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/state/difficult/OpenningState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/state/difficult/RunningState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/state/difficult/StoppingState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/observer/Observerable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/observer/Observer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/observer/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/observer/WechatServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/mediator/Mediator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="32" lean-forward="true" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/observer/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/mediator/Colleague.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/command/Invoker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/command/Command.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/mediator/CollegaueB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-          <folding>
-            <element signature="e#221#222#0" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day8/City.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-          <folding>
-            <element signature="e#148#149#0" expanded="true" />
-            <element signature="e#175#176#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/mediator/ConcreteMediator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
-          <folding>
-            <element signature="e#130#131#0" expanded="true" />
-            <element signature="e#163#164#0" expanded="true" />
-            <element signature="e#219#220#0" expanded="true" />
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#304#305#0" expanded="true" />
-            <element signature="e#337#338#0" expanded="true" />
-            <element signature="e#393#394#0" expanded="true" />
-            <element signature="e#437#438#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/mediator/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/说明书.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day8/Province.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/command/MyCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-          <folding>
-            <element signature="e#162#163#0" expanded="true" />
-            <element signature="e#202#203#0" expanded="true" />
-            <element signature="e#240#241#0" expanded="true" />
-            <element signature="e#273#274#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/command/Receiver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="3" column="22" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="22" />
-          <folding>
-            <element signature="e#95#96#0" expanded="true" />
-            <element signature="e#150#151#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/command/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day11/behavioralPattern/mediator/ColleagueA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
-          <folding>
-            <element signature="e#223#224#0" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day8/JsonTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="640">
-          <caret line="61" column="53" selection-start-line="61" selection-start-column="53" selection-end-line="61" selection-end-column="53" />
+        <state relative-caret-position="2409">
+          <caret line="86" column="50" selection-start-line="86" selection-start-column="50" selection-end-line="86" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
+    <entry file="jar://C:/java/src.zip!/java/lang/Double.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24420">
+          <caret line="797" selection-start-line="797" selection-end-line="797" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day12/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="87">
-            <caret line="3" column="33" lean-forward="true" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
-          </first_editor>
-          <second_editor />
+    <entry file="jar://C:/java/jre/lib/rt.jar!/sun/misc/FloatingDecimal.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2409">
+          <caret line="84" column="50" selection-start-line="84" selection-start-column="50" selection-end-line="84" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/leetcode/Solution9.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/5.0.0.Alpha2/netty-all-5.0.0.Alpha2-sources.jar!/io/netty/channel/ChannelHandlerContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="457" column="20" selection-start-line="457" selection-start-column="4" selection-end-line="457" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/java/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="2480" column="26" selection-start-line="2480" selection-start-column="26" selection-end-line="2480" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/java/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="1957" column="17" selection-start-line="1957" selection-start-column="11" selection-end-line="1957" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/java/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="148" column="27" selection-start-line="148" selection-start-column="24" selection-end-line="148" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/leetcode/Solution15.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1716">
+          <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/day12/timeserver/TimeClientHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/leetcode/SolutionWeek.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2772">
+          <caret line="85" selection-start-line="85" selection-end-line="85" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/leetcode/Solution11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/leetcode/Solution9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="20" column="23" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/leetcode/Solution867.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="22" column="5" selection-start-line="14" selection-start-column="3" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/leetcode/Solution189.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="891">
+          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/java/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2706">
+          <caret line="149" column="20" selection-start-line="149" selection-start-column="18" selection-end-line="149" selection-end-column="20" />
+          <folding>
+            <element signature="docComment;method#compare#0;class#Comparator#0" />
+            <element signature="docComment;method#equals#0;class#Comparator#0" />
+            <element signature="docComment;method#reversed#0;class#Comparator#0" />
+            <element signature="docComment;method#thenComparing#0;class#Comparator#0" />
+            <element signature="docComment;method#thenComparing#1;class#Comparator#0" />
+            <element signature="docComment;method#thenComparing#2;class#Comparator#0" />
+            <element signature="docComment;method#thenComparingInt#0;class#Comparator#0" />
+            <element signature="docComment;method#thenComparingLong#0;class#Comparator#0" />
+            <element signature="docComment;method#thenComparingDouble#0;class#Comparator#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team/wt.javalearn/java/src/main/leetcode/Solution5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="89" selection-start-line="89" selection-end-line="89" />
+          <folding>
+            <element signature="method#longestPalindrome#0;class#Solution5#0" />
+            <element signature="method#isHuiWen#0;class#Solution5#0" />
+            <element signature="method#longestPalindrome1#0;class#Solution5#0" />
+            <element signature="method#expandAroundCenter#0;class#Solution5#0" />
+          </folding>
         </state>
       </provider>
     </entry>

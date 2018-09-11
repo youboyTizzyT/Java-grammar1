@@ -24,7 +24,7 @@ public class HelloWorld {
          * SDK（Software Development Kit）：软件开发工具包，在Java中用于描述1998年~2006年之间的JDK
          * DAO（Data Access Object）：数据访问接口，数据访问，顾名思义就是与数据库打交道(在Spring中经常使用DAO)  当然,在
          * 我编写的时候,经常与Model搞混了
-         * MVC（Model View Controller）：模型(model)－视图(view)－控制器(controller)的缩写，一种软件设计典范，用于组织代码用一种业务逻辑和数据显示分离的方法
+         * MVC（Model View Controller）：模型(model)－视图(view)－控制器(com.easy.controller)的缩写，一种软件设计典范，用于组织代码用一种业务逻辑和数据显示分离的方法
          *
          */
     }
