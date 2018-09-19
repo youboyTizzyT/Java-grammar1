@@ -11,7 +11,7 @@ public class Solution41 {
         if (nums == null || nums.length == 0) {
             return 0;
         }
-        
+
         Arrays.sort(nums);
         int a = 1;
         for (int i = 0; i < nums.length; i++) {
