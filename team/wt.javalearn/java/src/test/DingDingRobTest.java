@@ -4,6 +4,7 @@ import com.dingtalk.chatbot.message.ActionCardAction;
 import com.dingtalk.chatbot.message.ActionCardMessage;
 
 import java.io.IOException;
+import java.util.Arrays;
 
 /**
  * Create by weicong on 2018/9/19
@@ -11,6 +12,7 @@ import java.io.IOException;
 public class DingDingRobTest {
 
     public static void main(String[] args) throws IOException {
+
         DingtalkChatbotClient client = new DingtalkChatbotClient();
         ActionCardMessage message = new ActionCardMessage();
         message.setBriefText("亲，小秘没有看懂你的问题哦，换个说法问问小秘看~你也可以试试以下问题");
