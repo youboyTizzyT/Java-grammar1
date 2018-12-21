@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>批量抽取</title>
+    <link rel="shortcut icon" href="img/icon.jpg"/>
+    <link href='css/css?family=Varela+Round' rel='stylesheet' type='text/css'>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .no-border {
+            border:0;
+            background:;
+            border-bottom:1 solid black;
+        }
+        .ext-pager {
+            width: 50px;
+        }
+        .wide-input {
+            width: 300px;
+        }
+        .blue-thead {
+            background-color: #428bca;
+            color:#fff;
+        }
+        .spinner {
+            margin: 45% auto;
+            width: 50px;
+            height: 60px;
+            text-align: center;
+            font-size: 10px;
+        }
+        .spinner > div {
+            background-color: #428bca;
+            height: 100%;
+            width: 6px;
+            display: inline-block;
+            -webkit-animation: stretchdelay 1.2s infinite ease-in-out;
+            animation: stretchdelay 1.2s infinite ease-in-out;
+        }
+        .spinner .rect2 {
+            -webkit-animation-delay: -1.1s;
+            animation-delay: -1.1s;
+        }
+        .spinner .rect3 {
+            -webkit-animation-delay: -1.0s;
+            animation-delay: -1.0s;
+        }
+        .spinner .rect4 {
+            -webkit-animation-delay: -0.9s;
+            animation-delay: -0.9s;
+        }
+        .spinner .rect5 {
+            -webkit-animation-delay: -0.8s;
+            animation-delay: -0.8s;
+        }
+        @-webkit-keyframes stretchdelay {
+            0%, 40%, 100% {
+                -webkit-transform: scaleY(0.4)
+            }
+            20% {
+                -webkit-transform: scaleY(1.0)
+            }
+        }
+        @keyframes stretchdelay {
+            0%, 40%, 100% {
+                transform: scaleY(0.4);
+                -webkit-transform: scaleY(0.4);
+            }
+            20% {
+                transform: scaleY(1.0);
+                -webkit-transform: scaleY(1.0);
+            }
+        }
+    </style>
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body id="top">
+
+
+<h1>抽取列表 (总条数: <span id='total'></span>)</h1>
+<div id="list">
+
+</div>
+<p align="right">
+<ul class="pager">
+    <li class="previous">< a href=" " id='previous'>&larr; Previous</ a></li>
+    <li>
+        page: <input class="ext-pager no-border" id="page" value='1'/>
+        size: <input class="ext-pager no-border" id="size" value='5'/>
+        tips: <input class="ext-pager no-border" id="tips" value='1'/>
+    </li>
+    <li class="next">< a href="#" id='next'>Next &rarr;</ a></li>
+</ul>
+</p >
+<hr/>
+<div id="detail" class="panel-group">
+    <h1>抽取详情</h1>
+</div>
+
+<div class="ext-processing modal fade" tabindex="-1" role="dialog" aria-hidden="true" data-backdrop="static">
+    <div class="modal-dialog">
+        <div class="spinner">
+            <div class="rect1"></div>
+            <div class="rect2"></div>
+            <div class="rect3"></div>
+            <div class="rect4"></div>
+            <div class="rect5"></div>
+        </div>
+    </div>
+</div>
+<div id="create-result" class="alert alert-info">
+    < a href="javascript:void(0);" class="close" >&times;</ a>
+状态: <strong><span id='create-code'></span></strong>
+<span id='create-message'></span>
+</div>
+
+<center><button id='createExtract' align='center' type="button" class="btn btn-primary" disabled="disabled">提交</button></center>
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="js/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/extract.js"></script>
+
+</body>
+</html>
