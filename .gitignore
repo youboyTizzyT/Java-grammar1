@@ -3,6 +3,7 @@
 .idea/
 # Log file
 *.log
+target/**
 
 # BlueJ files
 *.ctxt
@@ -32,3 +33,4 @@ target/classes/dat11/structurePattern/bridge/jdbc.jpg
 target/classes/dat11/structurePattern/Adapter/README.md
 .idea/workspace.xml
 Java-grammar.iml
+target/classes/redis.properties

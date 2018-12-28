@@ -22,7 +22,7 @@ import java.util.*;
 @Aspect
 public class CacheProxy {
     private static RedisUtils redis = RedisFactory.getDef();
-    private static String CACHE_NULL_STR = "==null==";
+    private static String CACHE_NULL_STR = "=null==";
     private static boolean redisSwitch = true;
     private static Map<String,RedisUtils> redisMap=new HashMap<>();
     /**
@@ -30,15 +30,10 @@ public class CacheProxy {
      *
      * @param cache
      */
-    @Pointcut(value = "(execution(* com.mob.moblink.core.dao..*.*DaoImpl.find**(..))||execution(* com.mob.moblink.core.dao..*.*DaoImpl.get**(..))||" +
-            "execution(* com.mob.moblink.core.dao..*.*DaoImpl.query**(..)))&&@annotation(cache)&&@annotation(com.mob.moblink.core.commons.annotation.RedisCache)", argNames = "cache")
+    @Pointcut(value = "(execution(* cacheTest.EntryImpl.getEntry(..))", argNames = "cache")
     public void redisAdd(RedisCache cache) {
     }
 
-    @Pointcut(value = "(execution(* com.mob.moblink.core.dao..*.*DaoImpl.delete**(..))||execution(* com.mob.moblink.core.dao..*.*DaoImpl.update**(..))||" +
-            "execution(* com.mob.moblink.core.dao..*.*DaoImpl.save**(..)))&&@annotation(cache)&&@annotation(com.mob.moblink.core.commons.annotation.RedisCache)", argNames = "cache")
-    public void redisDelete(RedisCache cache) {
-    }
 
     /**
      * 新增redis 缓存
@@ -51,6 +46,7 @@ public class CacheProxy {
      */
     @Around(value = "redisAdd(cache)", argNames = "joinPoint,cache")
     public Object aroundRedisAdd(ProceedingJoinPoint joinPoint, RedisCache cache) throws Throwable {
+        System.out.println(2);
         if (!redisSwitch) {
             return joinPoint.proceed();
         }

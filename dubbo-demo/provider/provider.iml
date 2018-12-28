@@ -17,6 +17,9 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="common" />
     <orderEntry type="library" name="Maven: com.mob:demo-jedis:1.1.0" level="project" />
+    <orderEntry type="library" name="Maven: com.lamfire:wkit:1.2.1" level="project" />
+    <orderEntry type="library" name="Maven: cn.sharesdk:lamfire:2.1.4" level="project" />
+    <orderEntry type="library" name="Maven: cn.sharesdk:lamfire-mongo:1.1.0" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-web:4.3.10.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-aop:4.3.10.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-beans:4.3.10.RELEASE" level="project" />

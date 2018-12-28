@@ -109,6 +109,22 @@
             <artifactId>aspectjweaver</artifactId>
             <version>1.7.4</version>
         </dependency>
+        <dependency>
+            <groupId>com.lamfire</groupId>
+            <artifactId>wkit</artifactId>
+            <version>1.2.1</version>
+        </dependency>
+        <dependency>
+            <groupId>cn.sharesdk</groupId>
+            <artifactId>lamfire</artifactId>
+            <version>2.1.4</version>
+        </dependency>
+
+        <dependency>
+            <groupId>cn.sharesdk</groupId>
+            <artifactId>lamfire-mongo</artifactId>
+            <version>1.1.0</version>
+        </dependency>
 
     </dependencies>
 
