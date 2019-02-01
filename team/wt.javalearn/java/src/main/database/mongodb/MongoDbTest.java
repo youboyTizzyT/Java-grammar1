@@ -13,63 +13,42 @@ import java.util.Map;
 
 public class MongoDbTest {
     public static void main( String args[] ){
+        MongoClient mongoClient=null;
+        MongoClient mongoClient1=null;
         try{
 
             // 连接到 mongodb 服务
-            MongoClient mongoClient = new MongoClient( "10.21.32.111" , 50216 );
-            MongoClient mongoClient2 = new MongoClient( "10.21.32.111" , 50214 );
+             mongoClient = new MongoClient( "10.18.97.172" , 27017 );
+             mongoClient1 = new MongoClient( "10.21.128.36" , 50106 );
 
             // 连接到数据库
-            MongoDatabase apppLink = mongoClient.getDatabase("APPLINK");
-            MongoDatabase mobLink = mongoClient2.getDatabase("MOBLINK");
+            MongoDatabase aaa = mongoClient.getDatabase("DemoUser_10");
+            MongoDatabase bbb = mongoClient1.getDatabase("MoblinkDemo");
 
             // 获取需要更改的集合
-            MongoCollection<Document> appConfNew=apppLink.getCollection("AppConfNew");
-            MongoCollection<Document> appConf=apppLink.getCollection("AppConf");
-            MongoCollection<Document> mobConf=mobLink.getCollection("AppConf");
+            MongoCollection<Document> appConfNew=aaa.getCollection("DemoUser_10");
+            MongoCollection<Document> appConf=bbb.getCollection("UserInfo");
             // 获取所有appconf和mobconf的信息
-            FindIterable<Document> allAppConf=appConf.find();
-            FindIterable<Document> allMobConf=mobConf.find();
+            FindIterable<Document> allMobConf=appConfNew.find();
             // 遍历所有的appconf
-            for (Document anAllAppConf : allAppConf) {
-                String appkey= (String) anAllAppConf.get("_id");
-                // 查找是否是老版本存在
-                Document anMobConf=findByKey(appkey,mobConf);
-                // 查找是否已经更新过数据
-                Document anAppConfNew=findByKey(appkey,appConfNew);
-                // 已经迁移过数据的需要特殊处理
-                if (anAppConfNew!=null){
-                    System.out.println("已经迁移过的数据："+appkey);
-                    continue;
-                }
+            for (Document anAllAppConf : allMobConf) {
+                anAllAppConf.remove("appkey");
+                anAllAppConf.remove("createAt");
+                anAllAppConf.remove("updateAt");
                 // 没有迁移过数据的新版本
-                appConfNew.insertOne(anAllAppConf);
-                // 如果moblink有数据，就更新过去老数据
-                if (anMobConf!=null) {
-                    Document updata = moblink(anMobConf);
-                    appConfNew.updateOne(Filters.eq("_id", appkey),new Document("$set",updata));
-                }
-            }
-            System.out.println("+++++++++++++++++++++++++++++");
-            // 把老数据，没有升级过的老数据迁移到迁移库中
-            appConfNew=apppLink.getCollection("AppConfNew");
-            for (Document anAllMobConf : allMobConf) {
-                String appkey = (String) anAllMobConf.get("_id");
-                Document anAppConf=findByKey(appkey,appConf);
-                // 没有迁移过数据的老版本
-                if (anAppConf==null){
-                    Document aaa=moblink(anAllMobConf);
-                    appConfNew.insertOne(aaa);
-                }
-//                else {
-//                    appConfNew.insertOne(anAppConf);
-//                    Document updata = moblink(anAllMobConf);
-//                    appConfNew.updateOne(Filters.eq("_id", appkey),new Document("$set",updata));
-//                }
+                appConf.insertOne(anAllAppConf);
 
             }
+
         }catch(Exception e){
             System.err.println( e.getClass().getName() + ": " + e.getMessage() );
+        }finally {
+            if (mongoClient!=null) {
+                mongoClient.close();
+            }
+            if (mongoClient1!=null) {
+                mongoClient1.close();
+            }
         }
     }
     private static Document findByKey(String appkey, MongoCollection<Document> db){
